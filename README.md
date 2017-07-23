@@ -1,5 +1,5 @@
 # Proiect-diploma
-My graduation thesis (almost the final version is posted), aprox. 7700 lines of code.
+My graduation thesis (almost the final version is posted), aprox. 6200 lines of code.
 
 It's a program that optimizes the timetables for college by generating all possible solutions for moving the labs, seminaries and project activities to reduce the gaps for students (the number of hours wasted between classes and courses
 
