@@ -1,0 +1,1900 @@
+deschid CSV/Orar1CA.csv 
+deschid CSV/Orar1CB.csv 
+deschid CSV/Orar1CC.csv 
+deschid CSV/Orar2CA.csv 
+deschid CSV/Orar2CB.csv 
+deschid CSV/Orar2CC.csv 
+deschid CSV/Orar3CA.csv 
+deschid CSV/Orar3CB.csv 
+deschid CSV/Orar3CC.csv 
+deschid CSV/Orar4C1.csv 
+deschid CSV/Orar4C2.csv 
+deschid CSV/Orar4C3.csv 
+deschid CSV/Orar4C4.csv 
+deschid CSV/Orar4C5.csv 
+deschid CSV/Orar5CM-AAC.csv 
+deschid CSV/Orar5CM-ABD.csv 
+deschid CSV/Orar5CM-e-GOV.csv 
+deschid CSV/Orar5CM-G1.csv 
+deschid CSV/Orar5CM-GMRV.csv 
+deschid CSV/Orar5CM-IA-en.csv 
+deschid CSV/Orar5CM-ISI.csv 
+deschid CSV/Orar5CM-MTI.csv 
+deschid CSV/Orar5CM-SCPD-en.csv 
+deschid CSV/Orar5CM-SRIC.csv 
+deschid CSV/Orar5CM-SSA.csv 
+deschid CSV/Orar6CM-AAC.csv 
+deschid CSV/Orar6CM-ABD.csv 
+deschid CSV/Orar6CM-E-GOV.csv 
+deschid CSV/Orar6CM-GMRV.csv 
+deschid CSV/Orar6CM-IA-en.csv 
+deschid CSV/Orar6CM-ISI.csv 
+deschid CSV/Orar6CM-MTI.csv 
+deschid CSV/Orar6CM-SCPD-en.csv 
+deschid CSV/Orar6CM-SRIC.csv 
+deschid CSV/Orar6CM-SSA.csv 
+orar1  zi1 ora8 ISTORIA RELIGIILOR(0) sala A04Leu
+orar1  zi1 ora8 IR(2) sala BN219
+orar1  zi1 ora9 ISTORIA RELIGIILOR(0) sala A04Leu
+orar1  zi1 ora9 IR(2) sala BN219
+orar1  zi1 ora10 II(1) sala EG305
+orar1  zi1 ora10 IR(2) sala BN219
+orar1  zi1 ora10 II(1) sala EG305
+orar1  zi1 ora10 IR(2) sala BN219
+orar1  zi1 ora10 II(1) sala EG305
+orar1  zi1 ora10 II(1) sala EG305
+orar1  zi1 ora10 IR(2) sala BN219
+orar1  zi1 ora10 II(1) sala EG305
+orar1  zi1 ora11 II(1) sala EG305
+orar1  zi1 ora11 IR(2) sala BN219
+orar1  zi1 ora11 II(1) sala EG305
+orar1  zi1 ora11 IR(2) sala BN219
+orar1  zi1 ora11 II(1) sala EG305
+orar1  zi1 ora11 II(1) sala EG305
+orar1  zi1 ora11 IR(2) sala BN219
+orar1  zi1 ora11 II(1) sala EG305
+orar1  zi1 ora12 IR(2) sala BN219
+orar1  zi1 ora12 INTRODUCERE IN INFORMATICA(0) sala EC105
+orar1  zi1 ora12 IR(2) sala BN219
+orar1  zi1 ora12 IR(2) sala BN219
+orar1  zi1 ora13 IR(2) sala BN219
+orar1  zi1 ora13 INTRODUCERE IN INFORMATICA(0) sala EC105
+orar1  zi1 ora13 IR(2) sala BN219
+orar1  zi1 ora13 IR(2) sala BN219
+orar1  zi1 ora14 UTILIZAREA SISTEMELOR DE OPERARE(0) sala EC105
+orar1  zi1 ora15 UTILIZAREA SISTEMELOR DE OPERARE(0) sala EC105
+orar1  zi1 ora16 Mat2(2) sala AN213
+orar1  zi1 ora16 USO(1) sala EG306
+orar1  zi1 ora17 Mat2(2) sala AN213
+orar1  zi1 ora17 USO(1) sala EG306
+orar1  zi1 ora18 USO(1) sala EG306
+orar1  zi1 ora18 Mat2(2) sala AN213
+orar1  zi1 ora19 USO(1) sala EG306
+orar1  zi1 ora19 Mat2(2) sala AN213
+orar1  zi2 ora9 PROIECTARE LOGICA(0) sala AN030
+orar1  zi2 ora10 PROIECTARE LOGICA(0) sala AN030
+orar1  zi2 ora11 PROIECTARE LOGICA(0) sala AN030
+orar1  zi2 ora12 PROGRAMAREA CALCULATOARELOR(0) sala AN030
+orar1  zi2 ora13 PROGRAMAREA CALCULATOARELOR(0) sala AN030
+orar1  zi2 ora14 MATEMATICA 2(0) sala AN030
+orar1  zi2 ora15 MATEMATICA 2(0) sala AN030
+orar1  zi2 ora16 MATEMATICA 2(0) sala AN030
+orar1  zi3 ora8 PL(1) sala EG311
+orar1  zi3 ora8 Progr(1) sala EG205
+orar1  zi3 ora8 USO(1) sala EG306
+orar1  zi3 ora9 PL(1) sala EG311
+orar1  zi3 ora9 Progr(1) sala EG205
+orar1  zi3 ora9 USO(1) sala EG306
+orar1  zi3 ora10 PL(1) sala EG311
+orar1  zi3 ora10 USO(1) sala EG306
+orar1  zi3 ora11 PL(1) sala EG311
+orar1  zi3 ora11 USO(1) sala EG306
+orar1  zi3 ora12 USO(1) sala EG306
+orar1  zi3 ora12 Progr(1) sala EG205
+orar1  zi3 ora12 Mat1(2) sala AN210
+orar1  zi3 ora12 PL(1) sala EG311
+orar1  zi3 ora13 USO(1) sala EG306
+orar1  zi3 ora13 Progr(1) sala EG205
+orar1  zi3 ora13 Mat1(2) sala AN210
+orar1  zi3 ora13 PL(1) sala EG311
+orar1  zi3 ora14 Mat1(2) sala AN210
+orar1  zi3 ora14 PL(1) sala EG311
+orar1  zi3 ora14 Progr(1) sala EG205
+orar1  zi3 ora15 Mat1(2) sala AN210
+orar1  zi3 ora15 PL(1) sala EG311
+orar1  zi3 ora15 Progr(1) sala EG205
+orar1  zi3 ora16 USO(1) sala EG306
+orar1  zi3 ora16 PL(1) sala EG311
+orar1  zi3 ora17 USO(1) sala EG306
+orar1  zi3 ora17 PL(1) sala EG311
+orar1  zi4 ora8 Mat1(2) sala EC002
+orar1  zi4 ora8 Engl(2) sala BN319
+orar1  zi4 ora8 Engl(2) sala AN217
+orar1  zi4 ora8 Progr(1) sala EG205
+orar1  zi4 ora8 Engl(2) sala AN217
+orar1  zi4 ora9 Mat1(2) sala EC002
+orar1  zi4 ora9 Engl(2) sala BN319
+orar1  zi4 ora9 Engl(2) sala AN217
+orar1  zi4 ora9 Progr(1) sala EG205
+orar1  zi4 ora9 Engl(2) sala AN217
+orar1  zi4 ora10 Engl(2) sala BN319
+orar1  zi4 ora10 Progr(1) sala EG205
+orar1  zi4 ora10 Engl(2) sala AN217
+orar1  zi4 ora10 Mat1(2) sala EC002
+orar1  zi4 ora11 Engl(2) sala BN319
+orar1  zi4 ora11 Progr(1) sala EG205
+orar1  zi4 ora11 Engl(2) sala AN217
+orar1  zi4 ora11 Mat1(2) sala EC002
+orar1  zi4 ora13 MATEMATICA 1(0) sala A02Leu
+orar1  zi4 ora14 MATEMATICA 1(0) sala A02Leu
+orar1  zi4 ora15 MATEMATICA 1(0) sala A02Leu
+orar1  zi4 ora16 GRAFICA INGINEREASCA(0) sala AN030
+orar1  zi4 ora16 MECANICA(0) sala AN030
+orar1  zi4 ora16 Progr(1) sala EG205
+orar1  zi4 ora17 GRAFICA INGINEREASCA(0) sala AN030
+orar1  zi4 ora17 MECANICA(0) sala AN030
+orar1  zi4 ora17 Progr(1) sala EG205
+orar1  zi4 ora18 PSIHOLOGIA EDUCATIEI(0) sala A02Leu
+orar1  zi4 ora19 PSIHOLOGIA EDUCATIEI(0) sala A02Leu
+orar1  zi5 ora8 Progr(1) sala EG105
+orar1  zi5 ora8 Mat2(2) sala AN210
+orar1  zi5 ora8 PL(1) sala EG311
+orar1  zi5 ora8 Mat2(2) sala AN210
+orar1  zi5 ora8 USO(1) sala EG306
+orar1  zi5 ora9 Progr(1) sala EG105
+orar1  zi5 ora9 Mat2(2) sala AN210
+orar1  zi5 ora9 PL(1) sala EG311
+orar1  zi5 ora9 Mat2(2) sala AN210
+orar1  zi5 ora9 USO(1) sala EG306
+orar1  zi5 ora10 Progr(1) sala EG205
+orar1  zi5 ora10 PL(1) sala EG311
+orar1  zi5 ora11 Progr(1) sala EG205
+orar1  zi5 ora11 PL(1) sala EG311
+orar1  zi5 ora12 Mat2(2) sala BN219
+orar1  zi5 ora12 PL(1) sala EG311
+orar1  zi5 ora12 USO(1) sala EG306
+orar1  zi5 ora12 Mat1(2) sala BN319
+orar1  zi5 ora12 Mat2(2) sala BN219
+orar1  zi5 ora13 Mat2(2) sala BN219
+orar1  zi5 ora13 PL(1) sala EG311
+orar1  zi5 ora13 USO(1) sala EG306
+orar1  zi5 ora13 Mat1(2) sala BN319
+orar1  zi5 ora13 Mat2(2) sala BN219
+orar1  zi5 ora14 USO(1) sala EG306
+orar1  zi5 ora14 Mat2(2) sala BN219
+orar1  zi5 ora14 PL(1) sala EG311
+orar1  zi5 ora14 USO(1) sala EG106
+orar1  zi5 ora14 Progr(1) sala EG205
+orar1  zi5 ora15 USO(1) sala EG306
+orar1  zi5 ora15 Mat2(2) sala BN219
+orar1  zi5 ora15 PL(1) sala EG311
+orar1  zi5 ora15 USO(1) sala EG106
+orar1  zi5 ora15 Progr(1) sala EG205
+orar1  zi5 ora16 PL(1) sala EG311
+orar1  zi5 ora16 Progr(1) sala EG205
+orar1  zi5 ora17 PL(1) sala EG311
+orar1  zi5 ora17 Progr(1) sala EG205
+orar2  zi1 ora8 USO(1) sala EG306
+orar2  zi1 ora8 II(1) sala EG305
+orar2  zi1 ora9 USO(1) sala EG306
+orar2  zi1 ora9 II(1) sala EG305
+orar2  zi1 ora10 II(1) sala EG305
+orar2  zi1 ora10 Engl(2) sala BN319
+orar2  zi1 ora10 Progr(1) sala EG105
+orar2  zi1 ora10 Progr(1) sala EG306
+orar2  zi1 ora10 II(1) sala EG305
+orar2  zi1 ora10 Engl(2) sala BN319
+orar2  zi1 ora11 II(1) sala EG305
+orar2  zi1 ora11 Engl(2) sala BN319
+orar2  zi1 ora11 Progr(1) sala EG105
+orar2  zi1 ora11 Progr(1) sala EG306
+orar2  zi1 ora11 II(1) sala EG305
+orar2  zi1 ora11 Engl(2) sala BN319
+orar2  zi1 ora12 Progr(1) sala EG105
+orar2  zi1 ora12 INTRODUCERE IN INFORMATICA(0) sala EC105
+orar2  zi1 ora13 Progr(1) sala EG105
+orar2  zi1 ora13 INTRODUCERE IN INFORMATICA(0) sala EC105
+orar2  zi1 ora15 MATEMATICA 2(0) sala A02Leu
+orar2  zi1 ora16 MATEMATICA 2(0) sala A02Leu
+orar2  zi1 ora17 MATEMATICA 2(0) sala A02Leu
+orar2  zi1 ora18 UTILIZAREA SISTEMELOR DE OPERARE(0) sala EC105
+orar2  zi1 ora19 UTILIZAREA SISTEMELOR DE OPERARE(0) sala EC105
+orar2  zi2 ora9 PROIECTARE LOGICA(0) sala A02Leu
+orar2  zi2 ora10 PROIECTARE LOGICA(0) sala A02Leu
+orar2  zi2 ora11 PROIECTARE LOGICA(0) sala A02Leu
+orar2  zi2 ora12 PROGRAMAREA CALCULATOARELOR(0) sala EC105
+orar2  zi2 ora13 PROGRAMAREA CALCULATOARELOR(0) sala EC105
+orar2  zi2 ora14 PL(1) sala EG311
+orar2  zi2 ora14 PL(1) sala EG302
+orar2  zi2 ora15 PL(1) sala EG311
+orar2  zi2 ora15 PL(1) sala EG302
+orar2  zi2 ora16 Mat1(2) sala AN210
+orar2  zi2 ora16 PL(1) sala EG311
+orar2  zi2 ora16 PL(1) sala EG302
+orar2  zi2 ora16 Mat2(2) sala AN213
+orar2  zi2 ora16 Progr(1) sala EG105
+orar2  zi2 ora17 Mat1(2) sala AN210
+orar2  zi2 ora17 PL(1) sala EG311
+orar2  zi2 ora17 PL(1) sala EG302
+orar2  zi2 ora17 Mat2(2) sala AN213
+orar2  zi2 ora17 Progr(1) sala EG105
+orar2  zi2 ora18 Mat1(2) sala AN210
+orar2  zi2 ora18 PL(1) sala EG311
+orar2  zi2 ora18 PL(1) sala EG302
+orar2  zi2 ora18 Mat2(2) sala AN213
+orar2  zi2 ora18 Progr(1) sala EG105
+orar2  zi2 ora19 Mat1(2) sala AN210
+orar2  zi2 ora19 PL(1) sala EG311
+orar2  zi2 ora19 PL(1) sala EG302
+orar2  zi2 ora19 Mat2(2) sala AN213
+orar2  zi2 ora19 Progr(1) sala EG105
+orar2  zi3 ora9 MATEMATICA 1(0) sala AN030
+orar2  zi3 ora10 MATEMATICA 1(0) sala AN030
+orar2  zi3 ora11 MATEMATICA 1(0) sala AN030
+orar2  zi3 ora12 Engl(2) sala BN219
+orar2  zi3 ora12 Mat2(2) sala AN205
+orar2  zi3 ora12 Engl(2) sala BN219
+orar2  zi3 ora13 Engl(2) sala BN219
+orar2  zi3 ora13 Mat2(2) sala AN205
+orar2  zi3 ora13 Engl(2) sala BN219
+orar2  zi3 ora14 USO(1) sala EG306
+orar2  zi3 ora14 Mat2(2) sala AN205
+orar2  zi3 ora15 USO(1) sala EG306
+orar2  zi3 ora15 Mat2(2) sala AN205
+orar2  zi3 ora16 Progr(1) sala EG105
+orar2  zi3 ora17 Progr(1) sala EG105
+orar2  zi3 ora18 Progr(1) sala EG105
+orar2  zi3 ora19 Progr(1) sala EG105
+orar2  zi4 ora8 USO(1) sala EG306
+orar2  zi4 ora8 Progr(1) sala EG105
+orar2  zi4 ora8 Mat1(2) sala AN213
+orar2  zi4 ora8 USO(1) sala EG106
+orar2  zi4 ora8 PL(1) sala EG311
+orar2  zi4 ora8 PL(1) sala EG302
+orar2  zi4 ora9 USO(1) sala EG306
+orar2  zi4 ora9 Progr(1) sala EG105
+orar2  zi4 ora9 Mat1(2) sala AN213
+orar2  zi4 ora9 USO(1) sala EG106
+orar2  zi4 ora9 PL(1) sala EG311
+orar2  zi4 ora9 PL(1) sala EG302
+orar2  zi4 ora10 PL(1) sala EG311
+orar2  zi4 ora10 PL(1) sala EG302
+orar2  zi4 ora10 USO(1) sala EG106
+orar2  zi4 ora10 Progr(1) sala EG105
+orar2  zi4 ora10 USO(1) sala EG306
+orar2  zi4 ora10 Mat1(2) sala AN213
+orar2  zi4 ora11 PL(1) sala EG311
+orar2  zi4 ora11 PL(1) sala EG302
+orar2  zi4 ora11 USO(1) sala EG106
+orar2  zi4 ora11 Progr(1) sala EG105
+orar2  zi4 ora11 USO(1) sala EG306
+orar2  zi4 ora11 Mat1(2) sala AN213
+orar2  zi4 ora12 PL(1) sala EG311
+orar2  zi4 ora12 PL(1) sala EG302
+orar2  zi4 ora12 II(1) sala EG305
+orar2  zi4 ora12 II(1) sala EG305
+orar2  zi4 ora12 USO(1) sala EG306
+orar2  zi4 ora12 Mat1(2) sala AN217
+orar2  zi4 ora12 II(1) sala EG305
+orar2  zi4 ora13 PL(1) sala EG311
+orar2  zi4 ora13 PL(1) sala EG302
+orar2  zi4 ora13 II(1) sala EG305
+orar2  zi4 ora13 II(1) sala EG305
+orar2  zi4 ora13 USO(1) sala EG306
+orar2  zi4 ora13 Mat1(2) sala AN217
+orar2  zi4 ora13 II(1) sala EG305
+orar2  zi4 ora14 Mat1(2) sala AN205
+orar2  zi4 ora14 Engl(2) sala BN028
+orar2  zi4 ora14 Engl(2) sala AN213
+orar2  zi4 ora14 USO(1) sala EG306
+orar2  zi4 ora15 Mat1(2) sala AN205
+orar2  zi4 ora15 Engl(2) sala BN028
+orar2  zi4 ora15 Engl(2) sala AN213
+orar2  zi4 ora15 USO(1) sala EG306
+orar2  zi4 ora16 GRAFICA INGINEREASCA(0) sala AN030
+orar2  zi4 ora16 MECANICA(0) sala AN030
+orar2  zi4 ora16 Progr(1) sala EG105
+orar2  zi4 ora16 USO(1) sala EG306
+orar2  zi4 ora17 GRAFICA INGINEREASCA(0) sala AN030
+orar2  zi4 ora17 MECANICA(0) sala AN030
+orar2  zi4 ora17 Progr(1) sala EG105
+orar2  zi4 ora17 USO(1) sala EG306
+orar2  zi4 ora18 Progr(1) sala EG105
+orar2  zi4 ora18 USO(1) sala EG306
+orar2  zi4 ora18 PSIHOLOGIA EDUCATIEI(0) sala A02Leu
+orar2  zi4 ora19 Progr(1) sala EG105
+orar2  zi4 ora19 USO(1) sala EG306
+orar2  zi4 ora19 PSIHOLOGIA EDUCATIEI(0) sala A02Leu
+orar2  zi5 ora8 Logica(2) sala AN212
+orar2  zi5 ora8 Progr(1) sala EG105
+orar2  zi5 ora8 Mat2(2) sala BN219
+orar2  zi5 ora8 Logica(2) sala AN213
+orar2  zi5 ora9 Logica(2) sala AN212
+orar2  zi5 ora9 Progr(1) sala EG105
+orar2  zi5 ora9 Mat2(2) sala BN219
+orar2  zi5 ora9 Logica(2) sala AN213
+orar2  zi5 ora10 Mat2(2) sala AN213
+orar2  zi5 ora10 Logica(2) sala AN212
+orar2  zi5 ora10 Logica(2) sala AN212
+orar2  zi5 ora11 Mat2(2) sala AN213
+orar2  zi5 ora11 Logica(2) sala AN212
+orar2  zi5 ora11 Logica(2) sala AN212
+orar2  zi5 ora12 LOGICA(0) sala A04Leu
+orar2  zi5 ora12 Logica(2) sala A04Leu
+orar2  zi5 ora13 LOGICA(0) sala A04Leu
+orar2  zi5 ora13 Logica(2) sala A04Leu
+orar2  zi5 ora14 Logica(2) sala A02Leu
+orar2  zi5 ora15 Logica(2) sala A02Leu
+orar2  zi5 ora16 USO(1) sala EG306
+orar2  zi5 ora17 USO(1) sala EG306
+orar2  zi5 ora18 USO(1) sala EG306
+orar2  zi5 ora19 USO(1) sala EG306
+orar3  zi1 ora8 PL(1) sala EG311
+orar3  zi1 ora8 Mat1(2) sala AN205
+orar3  zi1 ora8 II(1) sala EG305
+orar3  zi1 ora8 IF(2) sala BN219
+orar3  zi1 ora8 PL(1) sala EG302
+orar3  zi1 ora8 II(1) sala EG305
+orar3  zi1 ora9 PL(1) sala EG311
+orar3  zi1 ora9 Mat1(2) sala AN205
+orar3  zi1 ora9 II(1) sala EG305
+orar3  zi1 ora9 IF(2) sala BN219
+orar3  zi1 ora9 PL(1) sala EG302
+orar3  zi1 ora9 II(1) sala EG305
+orar3  zi1 ora10 II(1) sala EG305
+orar3  zi1 ora10 IF(2) sala AN213
+orar3  zi1 ora10 II(1) sala EG305
+orar3  zi1 ora10 PL(1) sala EG311
+orar3  zi1 ora10 PL(1) sala EG302
+orar3  zi1 ora10 Mat1(2) sala AN205
+orar3  zi1 ora11 II(1) sala EG305
+orar3  zi1 ora11 IF(2) sala AN213
+orar3  zi1 ora11 II(1) sala EG305
+orar3  zi1 ora11 PL(1) sala EG311
+orar3  zi1 ora11 PL(1) sala EG302
+orar3  zi1 ora11 Mat1(2) sala AN205
+orar3  zi1 ora12 PL(1) sala EG311
+orar3  zi1 ora12 IF(2) sala BN314
+orar3  zi1 ora12 INTRODUCERE IN INFORMATICA(0) sala EC105
+orar3  zi1 ora12 IF(2) sala BN314
+orar3  zi1 ora12 USO(1) sala EG306
+orar3  zi1 ora12 PL(1) sala EG302
+orar3  zi1 ora13 PL(1) sala EG311
+orar3  zi1 ora13 IF(2) sala BN314
+orar3  zi1 ora13 INTRODUCERE IN INFORMATICA(0) sala EC105
+orar3  zi1 ora13 IF(2) sala BN314
+orar3  zi1 ora13 USO(1) sala EG306
+orar3  zi1 ora13 PL(1) sala EG302
+orar3  zi1 ora14 USO(1) sala EG306
+orar3  zi1 ora14 IF(2) sala BN314
+orar3  zi1 ora14 IF(2) sala BN314
+orar3  zi1 ora14 Franceza(2) sala AN217
+orar3  zi1 ora15 USO(1) sala EG306
+orar3  zi1 ora15 IF(2) sala BN314
+orar3  zi1 ora15 IF(2) sala BN314
+orar3  zi1 ora15 Franceza(2) sala AN217
+orar3  zi1 ora16 UTILIZAREA SISTEMELOR DE OPERARE(0) sala EC105
+orar3  zi1 ora17 UTILIZAREA SISTEMELOR DE OPERARE(0) sala EC105
+orar3  zi2 ora8 USO(1) sala EG306
+orar3  zi2 ora8 Mat1(2) sala AN205
+orar3  zi2 ora8 PL(1) sala EG311
+orar3  zi2 ora8 PL(1) sala EG302
+orar3  zi2 ora8 Progr(1) sala EG105
+orar3  zi2 ora9 USO(1) sala EG306
+orar3  zi2 ora9 Mat1(2) sala AN205
+orar3  zi2 ora9 PL(1) sala EG311
+orar3  zi2 ora9 PL(1) sala EG302
+orar3  zi2 ora9 Progr(1) sala EG105
+orar3  zi2 ora10 PL(1) sala EG311
+orar3  zi2 ora10 PL(1) sala EG302
+orar3  zi2 ora10 Progr(1) sala EG105
+orar3  zi2 ora10 Mat2(2) sala AN205
+orar3  zi2 ora10 USO(1) sala EG306
+orar3  zi2 ora11 PL(1) sala EG311
+orar3  zi2 ora11 PL(1) sala EG302
+orar3  zi2 ora11 Progr(1) sala EG105
+orar3  zi2 ora11 Mat2(2) sala AN205
+orar3  zi2 ora11 USO(1) sala EG306
+orar3  zi2 ora12 USO(1) sala EG306
+orar3  zi2 ora12 PL(1) sala EG311
+orar3  zi2 ora12 PL(1) sala EG302
+orar3  zi2 ora12 Progr(1) sala EG105
+orar3  zi2 ora12 Mat2(2) sala AN205
+orar3  zi2 ora13 USO(1) sala EG306
+orar3  zi2 ora13 PL(1) sala EG311
+orar3  zi2 ora13 PL(1) sala EG302
+orar3  zi2 ora13 Progr(1) sala EG105
+orar3  zi2 ora13 Mat2(2) sala AN205
+orar3  zi2 ora14 Progr(1) sala EG105
+orar3  zi2 ora14 Mat2(2) sala AN205
+orar3  zi2 ora14 USO(1) sala EG306
+orar3  zi2 ora15 Progr(1) sala EG105
+orar3  zi2 ora15 Mat2(2) sala AN205
+orar3  zi2 ora15 USO(1) sala EG306
+orar3  zi2 ora16 Mat2(2) sala AN205
+orar3  zi2 ora16 USO(1) sala EG306
+orar3  zi2 ora17 Mat2(2) sala AN205
+orar3  zi2 ora17 USO(1) sala EG306
+orar3  zi2 ora18 USO(1) sala EG306
+orar3  zi2 ora19 USO(1) sala EG306
+orar3  zi3 ora9 MATEMATICA 1(0) sala A02Leu
+orar3  zi3 ora10 MATEMATICA 1(0) sala A02Leu
+orar3  zi3 ora11 MATEMATICA 1(0) sala A02Leu
+orar3  zi3 ora12 MATEMATICA 2(0) sala A02Leu
+orar3  zi3 ora13 MATEMATICA 2(0) sala A02Leu
+orar3  zi3 ora14 MATEMATICA 2(0) sala A02Leu
+orar3  zi3 ora16 Mat1(2) sala AN210
+orar3  zi3 ora16 Mat2(2) sala AN205
+orar3  zi3 ora16 Mat1(2) sala BN319
+orar3  zi3 ora17 Mat1(2) sala AN210
+orar3  zi3 ora17 Mat2(2) sala AN205
+orar3  zi3 ora17 Mat1(2) sala BN319
+orar3  zi3 ora18 Mat2(2) sala AN205
+orar3  zi3 ora18 Mat1(2) sala AN210
+orar3  zi3 ora18 USO(1) sala EG306
+orar3  zi3 ora19 Mat2(2) sala AN205
+orar3  zi3 ora19 Mat1(2) sala AN210
+orar3  zi3 ora19 USO(1) sala EG306
+orar3  zi4 ora8 PROIECTARE LOGICA(0) sala EC105
+orar3  zi4 ora9 PROIECTARE LOGICA(0) sala EC105
+orar3  zi4 ora10 PROIECTARE LOGICA(0) sala EC105
+orar3  zi4 ora12 Progr(1) sala EG105
+orar3  zi4 ora12 II(1) sala EG305
+orar3  zi4 ora12 Engl(2) sala BN319
+orar3  zi4 ora12 USO(1) sala EG106
+orar3  zi4 ora12 II(1) sala EG305
+orar3  zi4 ora13 Progr(1) sala EG105
+orar3  zi4 ora13 II(1) sala EG305
+orar3  zi4 ora13 Engl(2) sala BN319
+orar3  zi4 ora13 USO(1) sala EG106
+orar3  zi4 ora13 II(1) sala EG305
+orar3  zi4 ora14 Progr(1) sala EG105
+orar3  zi4 ora15 Progr(1) sala EG105
+orar3  zi4 ora16 GRAFICA INGINEREASCA(0) sala AN030
+orar3  zi4 ora16 MECANICA(0) sala AN030
+orar3  zi4 ora17 GRAFICA INGINEREASCA(0) sala AN030
+orar3  zi4 ora17 MECANICA(0) sala AN030
+orar3  zi4 ora18 PSIHOLOGIA EDUCATIEI(0) sala A02Leu
+orar3  zi4 ora19 PSIHOLOGIA EDUCATIEI(0) sala A02Leu
+orar3  zi5 ora10 Engl(2) sala BN319
+orar3  zi5 ora10 Engl(2) sala BN319
+orar3  zi5 ora10 USO(1) sala EG306
+orar3  zi5 ora10 Engl(2) sala AN217
+orar3  zi5 ora10 Engl(2) sala AN217
+orar3  zi5 ora11 Engl(2) sala BN319
+orar3  zi5 ora11 Engl(2) sala BN319
+orar3  zi5 ora11 USO(1) sala EG306
+orar3  zi5 ora11 Engl(2) sala AN217
+orar3  zi5 ora11 Engl(2) sala AN217
+orar3  zi5 ora12 PROGRAMAREA CALCULATOARELOR(0) sala AN030
+orar3  zi5 ora13 PROGRAMAREA CALCULATOARELOR(0) sala AN030
+orar3  zi5 ora14 ISTORIA FILOZOFIEI(0) sala A02Leu
+orar3  zi5 ora14 Germana(2) sala BN319
+orar3  zi5 ora15 ISTORIA FILOZOFIEI(0) sala A02Leu
+orar3  zi5 ora15 Germana(2) sala BN319
+orar3  zi5 ora16 USO(1) sala EG106
+orar3  zi5 ora16 IF(2) sala BN319
+orar3  zi5 ora16 IF(2) sala BN319
+orar3  zi5 ora17 USO(1) sala EG106
+orar3  zi5 ora17 IF(2) sala BN319
+orar3  zi5 ora17 IF(2) sala BN319
+orar4  zi1 ora12 POO(1) sala EG103b
+orar4  zi1 ora12 AA(1) sala EG209
+orar4  zi1 ora13 POO(1) sala EG103b
+orar4  zi1 ora13 AA(1) sala EG209
+orar4  zi1 ora14 POO(1) sala EG103b
+orar4  zi1 ora14 AA(1) sala EG209
+orar4  zi1 ora14 EEA(2) sala ED314
+orar4  zi1 ora15 POO(1) sala EG103b
+orar4  zi1 ora15 AA(1) sala EG209
+orar4  zi1 ora15 EEA(2) sala ED314
+orar4  zi1 ora17 ELEMENTE DE ELECTRONICA ANALOGICA(0) sala EC004
+orar4  zi1 ora18 ELEMENTE DE ELECTRONICA ANALOGICA(0) sala EC004
+orar4  zi1 ora19 ELEMENTE DE ELECTRONICA ANALOGICA(0) sala EC004
+orar4  zi2 ora8 AA(1) sala EG209
+orar4  zi2 ora8 TS(1) sala ED112
+orar4  zi2 ora8 TS(2) sala ED112
+orar4  zi2 ora8 EEA(2) sala ED314
+orar4  zi2 ora8 EEA(2) sala ED314
+orar4  zi2 ora8 EEA(1) sala ED313
+orar4  zi2 ora8 EEA(1) sala ED313
+orar4  zi2 ora9 AA(1) sala EG209
+orar4  zi2 ora9 TS(1) sala ED112
+orar4  zi2 ora9 TS(2) sala ED112
+orar4  zi2 ora9 EEA(2) sala ED314
+orar4  zi2 ora9 EEA(2) sala ED314
+orar4  zi2 ora9 EEA(1) sala ED313
+orar4  zi2 ora9 EEA(1) sala ED313
+orar4  zi2 ora10 EEA(2) sala ED314
+orar4  zi2 ora10 EEA(2) sala ED314
+orar4  zi2 ora10 AA(1) sala EG209
+orar4  zi2 ora10 TS(1) sala ED112
+orar4  zi2 ora10 TS(2) sala ED112
+orar4  zi2 ora11 EEA(2) sala ED314
+orar4  zi2 ora11 EEA(2) sala ED314
+orar4  zi2 ora11 AA(1) sala EG209
+orar4  zi2 ora11 TS(1) sala ED112
+orar4  zi2 ora11 TS(2) sala ED112
+orar4  zi2 ora12 IOCLA(1) sala EG103
+orar4  zi2 ora12 IOCLA(1) sala EG410
+orar4  zi2 ora12 TS(1) sala ED112
+orar4  zi2 ora12 TS(2) sala ED112
+orar4  zi2 ora12 AA(1) sala EG209
+orar4  zi2 ora13 IOCLA(1) sala EG103
+orar4  zi2 ora13 IOCLA(1) sala EG410
+orar4  zi2 ora13 TS(1) sala ED112
+orar4  zi2 ora13 TS(2) sala ED112
+orar4  zi2 ora13 AA(1) sala EG209
+orar4  zi2 ora14 TS(1) sala ED112
+orar4  zi2 ora14 TS(2) sala ED112
+orar4  zi2 ora14 AA(1) sala EG209
+orar4  zi2 ora15 TS(1) sala ED112
+orar4  zi2 ora15 TS(2) sala ED112
+orar4  zi2 ora15 AA(1) sala EG209
+orar4  zi2 ora16 AA(1) sala EG209
+orar4  zi2 ora17 AA(1) sala EG209
+orar4  zi2 ora18 AA(1) sala EG209
+orar4  zi2 ora18 TS(1) sala ED112
+orar4  zi2 ora18 TS(2) sala ED112
+orar4  zi2 ora19 AA(1) sala EG209
+orar4  zi2 ora19 TS(1) sala ED112
+orar4  zi2 ora19 TS(2) sala ED112
+orar4  zi3 ora8 IOCLA(1) sala EG305
+orar4  zi3 ora8 IOCLA(1) sala EG410
+orar4  zi3 ora8 POO(1) sala EG103
+orar4  zi3 ora8 POO(1) sala EG405
+orar4  zi3 ora9 IOCLA(1) sala EG305
+orar4  zi3 ora9 IOCLA(1) sala EG410
+orar4  zi3 ora9 POO(1) sala EG103
+orar4  zi3 ora9 POO(1) sala EG405
+orar4  zi3 ora10 EEA(1) sala ED313
+orar4  zi3 ora10 EEA(1) sala ED313
+orar4  zi3 ora10 POO(1) sala EG103
+orar4  zi3 ora10 POO(1) sala EG405
+orar4  zi3 ora10 IOCLA(1) sala EG305
+orar4  zi3 ora10 IOCLA(1) sala EG410
+orar4  zi3 ora11 EEA(1) sala ED313
+orar4  zi3 ora11 EEA(1) sala ED313
+orar4  zi3 ora11 POO(1) sala EG103
+orar4  zi3 ora11 POO(1) sala EG405
+orar4  zi3 ora11 IOCLA(1) sala EG305
+orar4  zi3 ora11 IOCLA(1) sala EG410
+orar4  zi3 ora12 POO(1) sala EG103b
+orar4  zi3 ora12 POO(1) sala EG405
+orar4  zi3 ora12 IOCLA(1) sala EG305
+orar4  zi3 ora12 IOCLA(1) sala EG410
+orar4  zi3 ora12 AA(1) sala EG209
+orar4  zi3 ora13 POO(1) sala EG103b
+orar4  zi3 ora13 POO(1) sala EG405
+orar4  zi3 ora13 IOCLA(1) sala EG305
+orar4  zi3 ora13 IOCLA(1) sala EG410
+orar4  zi3 ora13 AA(1) sala EG209
+orar4  zi3 ora14 POO(1) sala EG103b
+orar4  zi3 ora14 POO(1) sala EG405
+orar4  zi3 ora14 AA(1) sala EG209
+orar4  zi3 ora15 POO(1) sala EG103b
+orar4  zi3 ora15 POO(1) sala EG405
+orar4  zi3 ora15 AA(1) sala EG209
+orar4  zi3 ora18 EEA(1) sala ED313
+orar4  zi3 ora18 EEA(1) sala ED313
+orar4  zi3 ora19 EEA(1) sala ED313
+orar4  zi3 ora19 EEA(1) sala ED313
+orar4  zi4 ora8 TEORIA SISTEMELOR(0) sala AN030
+orar4  zi4 ora9 TEORIA SISTEMELOR(0) sala AN030
+orar4  zi4 ora10 TEORIA SISTEMELOR(0) sala AN030
+orar4  zi4 ora11 INTRODUCERE IN ORGANIZAREA CALCULATOARELOR SI LIMBAJE DE ASAMBLARE(0) sala EC105
+orar4  zi4 ora12 INTRODUCERE IN ORGANIZAREA CALCULATOARELOR SI LIMBAJE DE ASAMBLARE(0) sala EC105
+orar4  zi4 ora13 INTRODUCERE IN ORGANIZAREA CALCULATOARELOR SI LIMBAJE DE ASAMBLARE(0) sala EC105
+orar4  zi4 ora14 FILOZOFIE COGNITIVISTA(0) sala A02Leu
+orar4  zi4 ora15 FILOZOFIE COGNITIVISTA(0) sala A02Leu
+orar4  zi4 ora16 EEA(1) sala ED313
+orar4  zi4 ora16 EEA(1) sala ED313
+orar4  zi4 ora16 PEDAGOGIE(0) sala A04Leu
+orar4  zi4 ora17 EEA(1) sala ED313
+orar4  zi4 ora17 EEA(1) sala ED313
+orar4  zi4 ora17 PEDAGOGIE(0) sala A04Leu
+orar4  zi4 ora18 MATEMATICA 4(0) sala A04Leu
+orar4  zi4 ora18 EEA(1) sala ED313
+orar4  zi4 ora18 EEA(1) sala ED313
+orar4  zi4 ora18 PEDAGOGIE(2) sala EC002
+orar4  zi4 ora19 MATEMATICA 4(0) sala A04Leu
+orar4  zi4 ora19 EEA(1) sala ED313
+orar4  zi4 ora19 EEA(1) sala ED313
+orar4  zi4 ora19 PEDAGOGIE(2) sala EC002
+orar4  zi5 ora8 PROGRAMARE ORIENTATA PE OBIECTE(0) sala EC004
+orar4  zi5 ora9 PROGRAMARE ORIENTATA PE OBIECTE(0) sala EC004
+orar4  zi5 ora10 PROGRAMARE ORIENTATA PE OBIECTE(0) sala EC004
+orar4  zi5 ora11 ANALIZA ALGORITMILOR(0) sala EC101
+orar4  zi5 ora12 ANALIZA ALGORITMILOR(0) sala EC101
+orar4  zi5 ora13 ANALIZA ALGORITMILOR(0) sala EC101
+orar4  zi5 ora14 FC(2) sala AN205
+orar4  zi5 ora14 FC(2) sala AN205
+orar4  zi5 ora15 FC(2) sala AN205
+orar4  zi5 ora15 FC(2) sala AN205
+orar4  zi5 ora16 IOCLA(1) sala EG305
+orar4  zi5 ora16 IOCLA(1) sala EG410
+orar4  zi5 ora16 FC(2) sala AN205
+orar4  zi5 ora16 FC(2) sala AN205
+orar4  zi5 ora17 IOCLA(1) sala EG305
+orar4  zi5 ora17 IOCLA(1) sala EG410
+orar4  zi5 ora17 FC(2) sala AN205
+orar4  zi5 ora17 FC(2) sala AN205
+orar4  zi5 ora18 FC(2) sala AN205
+orar4  zi5 ora19 FC(2) sala AN205
+orar5  zi1 ora8 PROGRAMARE ORIENTATA OBIECT(0) sala AN030
+orar5  zi1 ora9 PROGRAMARE ORIENTATA OBIECT(0) sala AN030
+orar5  zi1 ora10 PROGRAMARE ORIENTATA OBIECT(0) sala AN030
+orar5  zi1 ora11 TEORIA SISTEMELOR(0) sala AN030
+orar5  zi1 ora12 TEORIA SISTEMELOR(0) sala AN030
+orar5  zi1 ora13 TEORIA SISTEMELOR(0) sala AN030
+orar5  zi1 ora14 FCT(2) sala AN213
+orar5  zi1 ora14 EEA(2) sala ED314
+orar5  zi1 ora14 FCT(2) sala AN213
+orar5  zi1 ora14 TS(1) sala ED112
+orar5  zi1 ora14 TS(2) sala ED112
+orar5  zi1 ora14 POO(1) sala EG105
+orar5  zi1 ora15 FCT(2) sala AN213
+orar5  zi1 ora15 EEA(2) sala ED314
+orar5  zi1 ora15 FCT(2) sala AN213
+orar5  zi1 ora15 TS(1) sala ED112
+orar5  zi1 ora15 TS(2) sala ED112
+orar5  zi1 ora15 POO(1) sala EG105
+orar5  zi1 ora16 TS(1) sala ED112
+orar5  zi1 ora16 TS(2) sala ED112
+orar5  zi1 ora16 POO(1) sala EG405
+orar5  zi1 ora16 AA(1) sala EG209
+orar5  zi1 ora17 TS(1) sala ED112
+orar5  zi1 ora17 TS(2) sala ED112
+orar5  zi1 ora17 POO(1) sala EG405
+orar5  zi1 ora17 AA(1) sala EG209
+orar5  zi1 ora18 AA(1) sala EG209
+orar5  zi1 ora18 POO(1) sala EG105
+orar5  zi1 ora19 AA(1) sala EG209
+orar5  zi1 ora19 POO(1) sala EG105
+orar5  zi2 ora8 PEDAGOGIE(0) sala EC002
+orar5  zi2 ora9 PEDAGOGIE(0) sala EC002
+orar5  zi2 ora10 PEDAGOGIE(2) sala EC002
+orar5  zi2 ora10 Engleza(2) sala BN219
+orar5  zi2 ora10 Engleza(2) sala BN219
+orar5  zi2 ora10 PEDAGOGIE(2) sala EC002
+orar5  zi2 ora11 PEDAGOGIE(2) sala EC002
+orar5  zi2 ora11 Engleza(2) sala BN219
+orar5  zi2 ora11 Engleza(2) sala BN219
+orar5  zi2 ora11 PEDAGOGIE(2) sala EC002
+orar5  zi2 ora12 Engleza(2) sala BN219
+orar5  zi2 ora12 Engleza(2) sala BN219
+orar5  zi2 ora13 Engleza(2) sala BN219
+orar5  zi2 ora13 Engleza(2) sala BN219
+orar5  zi2 ora14 IOCLA(1) sala EG103
+orar5  zi2 ora14 IOCLA(1) sala EG410
+orar5  zi2 ora15 IOCLA(1) sala EG103
+orar5  zi2 ora15 IOCLA(1) sala EG410
+orar5  zi2 ora16 IOCLA(1) sala EG103
+orar5  zi2 ora16 IOCLA(1) sala EG410
+orar5  zi2 ora16 TS(1) sala ED112
+orar5  zi2 ora16 TS(2) sala ED112
+orar5  zi2 ora17 IOCLA(1) sala EG103
+orar5  zi2 ora17 IOCLA(1) sala EG410
+orar5  zi2 ora17 TS(1) sala ED112
+orar5  zi2 ora17 TS(2) sala ED112
+orar5  zi2 ora18 IOCLA(1) sala EG103
+orar5  zi2 ora18 IOCLA(1) sala EG410
+orar5  zi2 ora19 IOCLA(1) sala EG103
+orar5  zi2 ora19 IOCLA(1) sala EG410
+orar5  zi3 ora12 EEA(2) sala ED314
+orar5  zi3 ora12 EEA(2) sala ED314
+orar5  zi3 ora13 EEA(2) sala ED314
+orar5  zi3 ora13 EEA(2) sala ED314
+orar5  zi3 ora14 EEA(2) sala ED314
+orar5  zi3 ora14 EEA(2) sala ED314
+orar5  zi3 ora15 EEA(2) sala ED314
+orar5  zi3 ora15 EEA(2) sala ED314
+orar5  zi3 ora16 ELEMENTE DE ELECTRONICA ANALOGICA(0) sala EC105
+orar5  zi3 ora17 ELEMENTE DE ELECTRONICA ANALOGICA(0) sala EC105
+orar5  zi3 ora18 ELEMENTE DE ELECTRONICA ANALOGICA(0) sala EC105
+orar5  zi4 ora8 EEA(1) sala ED313
+orar5  zi4 ora8 EEA(1) sala ED313
+orar5  zi4 ora9 EEA(1) sala ED313
+orar5  zi4 ora9 EEA(1) sala ED313
+orar5  zi4 ora10 EEA(1) sala ED313
+orar5  zi4 ora10 EEA(1) sala ED313
+orar5  zi4 ora11 EEA(1) sala ED313
+orar5  zi4 ora11 EEA(1) sala ED313
+orar5  zi4 ora12 Engleza(2) sala BN219
+orar5  zi4 ora12 IOCLA(1) sala EG103
+orar5  zi4 ora12 IOCLA(1) sala EG410
+orar5  zi4 ora12 EEA(1) sala ED313
+orar5  zi4 ora12 EEA(1) sala ED313
+orar5  zi4 ora12 AA(1) sala EG209
+orar5  zi4 ora13 Engleza(2) sala BN219
+orar5  zi4 ora13 IOCLA(1) sala EG103
+orar5  zi4 ora13 IOCLA(1) sala EG410
+orar5  zi4 ora13 EEA(1) sala ED313
+orar5  zi4 ora13 EEA(1) sala ED313
+orar5  zi4 ora13 AA(1) sala EG209
+orar5  zi4 ora14 FILOZOFIA CULTURII TEHNICE(0) sala A04Leu
+orar5  zi4 ora15 FILOZOFIA CULTURII TEHNICE(0) sala A04Leu
+orar5  zi4 ora16 IOCLA(1) sala EG103
+orar5  zi4 ora16 IOCLA(1) sala EG410
+orar5  zi4 ora16 AA(1) sala EG209
+orar5  zi4 ora16 FCT(2) sala AN213
+orar5  zi4 ora16 TS(1) sala ED112
+orar5  zi4 ora16 TS(2) sala ED112
+orar5  zi4 ora16 FCT(2) sala AN213
+orar5  zi4 ora17 IOCLA(1) sala EG103
+orar5  zi4 ora17 IOCLA(1) sala EG410
+orar5  zi4 ora17 AA(1) sala EG209
+orar5  zi4 ora17 FCT(2) sala AN213
+orar5  zi4 ora17 TS(1) sala ED112
+orar5  zi4 ora17 TS(2) sala ED112
+orar5  zi4 ora17 FCT(2) sala AN213
+orar5  zi4 ora18 AA(1) sala EG209
+orar5  zi4 ora18 TS(1) sala ED112
+orar5  zi4 ora18 TS(2) sala ED112
+orar5  zi4 ora18 FCT(2) sala AN213
+orar5  zi4 ora19 AA(1) sala EG209
+orar5  zi4 ora19 TS(1) sala ED112
+orar5  zi4 ora19 TS(2) sala ED112
+orar5  zi4 ora19 FCT(2) sala AN213
+orar5  zi5 ora8 INTRODUCERE IN ORGANIZAREA CALCULATOARELOR SI LIMBAJE DE ASAMBLARE(0) sala EC105
+orar5  zi5 ora9 INTRODUCERE IN ORGANIZAREA CALCULATOARELOR SI LIMBAJE DE ASAMBLARE(0) sala EC105
+orar5  zi5 ora10 INTRODUCERE IN ORGANIZAREA CALCULATOARELOR SI LIMBAJE DE ASAMBLARE(0) sala EC105
+orar5  zi5 ora11 ANALIZA ALGORITMILOR(0) sala EC004
+orar5  zi5 ora12 ANALIZA ALGORITMILOR(0) sala EC004
+orar5  zi5 ora13 ANALIZA ALGORITMILOR(0) sala EC004
+orar5  zi5 ora16 EEA(1) sala ED313
+orar5  zi5 ora16 EEA(1) sala ED313
+orar5  zi5 ora16 POO(1) sala EG405
+orar5  zi5 ora17 EEA(1) sala ED313
+orar5  zi5 ora17 EEA(1) sala ED313
+orar5  zi5 ora17 POO(1) sala EG405
+orar5  zi5 ora18 POO(1) sala EG105
+orar5  zi5 ora18 EEA(1) sala ED313
+orar5  zi5 ora18 EEA(1) sala ED313
+orar5  zi5 ora19 POO(1) sala EG105
+orar5  zi5 ora19 EEA(1) sala ED313
+orar5  zi5 ora19 EEA(1) sala ED313
+orar6  zi1 ora8 EEA(1) sala ED313
+orar6  zi1 ora8 EEA(1) sala ED313
+orar6  zi1 ora9 EEA(1) sala ED313
+orar6  zi1 ora9 EEA(1) sala ED313
+orar6  zi1 ora10 EEA(1) sala ED313
+orar6  zi1 ora10 EEA(1) sala ED313
+orar6  zi1 ora10 Franceza(2) sala AN213
+orar6  zi1 ora10 EEA(2) sala ED314
+orar6  zi1 ora11 EEA(1) sala ED313
+orar6  zi1 ora11 EEA(1) sala ED313
+orar6  zi1 ora11 Franceza(2) sala AN213
+orar6  zi1 ora11 EEA(2) sala ED314
+orar6  zi1 ora12 EEA(2) sala ED314
+orar6  zi1 ora12 EEA(2) sala ED314
+orar6  zi1 ora13 EEA(2) sala ED314
+orar6  zi1 ora13 EEA(2) sala ED314
+orar6  zi1 ora14 ANALIZA ALGORITMILOR(0) sala AN030
+orar6  zi1 ora15 ANALIZA ALGORITMILOR(0) sala AN030
+orar6  zi1 ora16 ANALIZA ALGORITMILOR(0) sala AN030
+orar6  zi1 ora17 TEORIA SISTEMELOR(0) sala AN030
+orar6  zi1 ora18 TEORIA SISTEMELOR(0) sala AN030
+orar6  zi1 ora19 TEORIA SISTEMELOR(0) sala AN030
+orar6  zi2 ora8 PEDAGOGIE(0) sala EC002
+orar6  zi2 ora9 PEDAGOGIE(0) sala EC002
+orar6  zi2 ora12 EEA(2) sala ED314
+orar6  zi2 ora12 EEA(2) sala ED314
+orar6  zi2 ora13 EEA(2) sala ED314
+orar6  zi2 ora13 EEA(2) sala ED314
+orar6  zi2 ora14 PROGRAMARE ORIENTATA PE OBIECTE(0) sala EC101
+orar6  zi2 ora15 PROGRAMARE ORIENTATA PE OBIECTE(0) sala EC101
+orar6  zi2 ora16 PROGRAMARE ORIENTATA PE OBIECTE(0) sala EC101
+orar6  zi2 ora17 ELEMENTE DE ELECTRONICA ANALOGICA(0) sala EC105
+orar6  zi2 ora18 ELEMENTE DE ELECTRONICA ANALOGICA(0) sala EC105
+orar6  zi2 ora19 ELEMENTE DE ELECTRONICA ANALOGICA(0) sala EC105
+orar6  zi3 ora8 POO(1) sala EG105
+orar6  zi3 ora8 AA(1) sala EG209
+orar6  zi3 ora8 TS(1) sala ED112
+orar6  zi3 ora8 TS(2) sala ED112
+orar6  zi3 ora8 EEA(1) sala ED313
+orar6  zi3 ora8 EEA(1) sala ED313
+orar6  zi3 ora9 POO(1) sala EG105
+orar6  zi3 ora9 AA(1) sala EG209
+orar6  zi3 ora9 TS(1) sala ED112
+orar6  zi3 ora9 TS(2) sala ED112
+orar6  zi3 ora9 EEA(1) sala ED313
+orar6  zi3 ora9 EEA(1) sala ED313
+orar6  zi3 ora10 TS(1) sala ED112
+orar6  zi3 ora10 TS(2) sala ED112
+orar6  zi3 ora10 POO(1) sala EG105
+orar6  zi3 ora10 AA(1) sala EG209
+orar6  zi3 ora11 TS(1) sala ED112
+orar6  zi3 ora11 TS(2) sala ED112
+orar6  zi3 ora11 POO(1) sala EG105
+orar6  zi3 ora11 AA(1) sala EG209
+orar6  zi3 ora12 POO(1) sala EG105
+orar6  zi3 ora12 TS(1) sala ED112
+orar6  zi3 ora12 TS(2) sala ED112
+orar6  zi3 ora13 POO(1) sala EG105
+orar6  zi3 ora13 TS(1) sala ED112
+orar6  zi3 ora13 TS(2) sala ED112
+orar6  zi3 ora14 Engleza(2) sala BN319
+orar6  zi3 ora14 TS(1) sala ED112
+orar6  zi3 ora14 TS(2) sala ED112
+orar6  zi3 ora14 POO(1) sala EG105
+orar6  zi3 ora15 Engleza(2) sala BN319
+orar6  zi3 ora15 TS(1) sala ED112
+orar6  zi3 ora15 TS(2) sala ED112
+orar6  zi3 ora15 POO(1) sala EG105
+orar6  zi3 ora16 TS(1) sala ED112
+orar6  zi3 ora16 TS(2) sala ED112
+orar6  zi3 ora17 TS(1) sala ED112
+orar6  zi3 ora17 TS(2) sala ED112
+orar6  zi4 ora8 PSI(2) sala BN319
+orar6  zi4 ora9 PSI(2) sala BN319
+orar6  zi4 ora10 PSI(2) sala BN219
+orar6  zi4 ora10 Engleza(2) sala AN217
+orar6  zi4 ora10 PSI(2) sala BN219
+orar6  zi4 ora11 PSI(2) sala BN219
+orar6  zi4 ora11 Engleza(2) sala AN217
+orar6  zi4 ora11 PSI(2) sala BN219
+orar6  zi4 ora12 PSIHOINVENTICA(0) sala AN030
+orar6  zi4 ora12 PSI(2) sala BN219
+orar6  zi4 ora12 Engleza(2) sala BN319
+orar6  zi4 ora12 Engleza(2) sala AN211
+orar6  zi4 ora13 PSIHOINVENTICA(0) sala AN030
+orar6  zi4 ora13 PSI(2) sala BN219
+orar6  zi4 ora13 Engleza(2) sala BN319
+orar6  zi4 ora13 Engleza(2) sala AN211
+orar6  zi4 ora14 IOCLA(1) sala EG103
+orar6  zi4 ora14 IOCLA(1) sala EG410
+orar6  zi4 ora14 PSI(2) sala AN210
+orar6  zi4 ora14 Germana(2) sala AN213
+orar6  zi4 ora15 IOCLA(1) sala EG103
+orar6  zi4 ora15 IOCLA(1) sala EG410
+orar6  zi4 ora15 PSI(2) sala AN210
+orar6  zi4 ora15 Germana(2) sala AN213
+orar6  zi4 ora18 MATEMATICA 4(0) sala A04Leu
+orar6  zi4 ora18 IOCLA(1) sala EG103
+orar6  zi4 ora18 IOCLA(1) sala EG410
+orar6  zi4 ora19 MATEMATICA 4(0) sala A04Leu
+orar6  zi4 ora19 IOCLA(1) sala EG103
+orar6  zi4 ora19 IOCLA(1) sala EG410
+orar6  zi5 ora8 INTRODUCERE IN ORGANIZAREA CALCULATOARELOR SI LIMBAJE DE ASAMBLARE(0) sala EC105
+orar6  zi5 ora9 INTRODUCERE IN ORGANIZAREA CALCULATOARELOR SI LIMBAJE DE ASAMBLARE(0) sala EC105
+orar6  zi5 ora10 INTRODUCERE IN ORGANIZAREA CALCULATOARELOR SI LIMBAJE DE ASAMBLARE(0) sala EC105
+orar6  zi5 ora12 EEA(1) sala ED313
+orar6  zi5 ora12 EEA(1) sala ED313
+orar6  zi5 ora12 IOCLA(1) sala EG305
+orar6  zi5 ora12 IOCLA(1) sala EG410
+orar6  zi5 ora12 AA(1) sala EG209
+orar6  zi5 ora13 EEA(1) sala ED313
+orar6  zi5 ora13 EEA(1) sala ED313
+orar6  zi5 ora13 IOCLA(1) sala EG305
+orar6  zi5 ora13 IOCLA(1) sala EG410
+orar6  zi5 ora13 AA(1) sala EG209
+orar6  zi5 ora14 AA(1) sala EG209
+orar6  zi5 ora14 EEA(1) sala ED313
+orar6  zi5 ora14 EEA(1) sala ED313
+orar6  zi5 ora14 IOCLA(1) sala EG305
+orar6  zi5 ora14 IOCLA(1) sala EG410
+orar6  zi5 ora14 POO(1) sala EG105
+orar6  zi5 ora15 AA(1) sala EG209
+orar6  zi5 ora15 EEA(1) sala ED313
+orar6  zi5 ora15 EEA(1) sala ED313
+orar6  zi5 ora15 IOCLA(1) sala EG305
+orar6  zi5 ora15 IOCLA(1) sala EG410
+orar6  zi5 ora15 POO(1) sala EG105
+orar6  zi5 ora16 AA(1) sala EG209
+orar6  zi5 ora17 AA(1) sala EG209
+orar6  zi5 ora18 IOCLA(1) sala EG305
+orar6  zi5 ora18 IOCLA(1) sala EG410
+orar6  zi5 ora19 IOCLA(1) sala EG305
+orar6  zi5 ora19 IOCLA(1) sala EG410
+orar7  zi1 ora8 APD(1) sala ED120
+orar7  zi1 ora8 CN(1) sala EG206
+orar7  zi1 ora8 RL(1) sala EG207
+orar7  zi1 ora9 APD(1) sala ED120
+orar7  zi1 ora9 CN(1) sala EG206
+orar7  zi1 ora9 RL(1) sala EG207
+orar7  zi1 ora10 RL(1) sala EG207
+orar7  zi1 ora10 APD(1) sala ED120
+orar7  zi1 ora10 CN(1) sala EG206
+orar7  zi1 ora11 RL(1) sala EG207
+orar7  zi1 ora11 APD(1) sala ED120
+orar7  zi1 ora11 CN(1) sala EG206
+orar7  zi1 ora12 EGC(1) sala EG304
+orar7  zi1 ora12 CN(1) sala EG206
+orar7  zi1 ora12 APD(1) sala ED120
+orar7  zi1 ora13 EGC(1) sala EG304
+orar7  zi1 ora13 CN(1) sala EG206
+orar7  zi1 ora13 APD(1) sala ED120
+orar7  zi1 ora14 CN(1) sala EG206
+orar7  zi1 ora14 LFA(2) sala AN210
+orar7  zi1 ora14 EGC(1) sala EG304
+orar7  zi1 ora15 CN(1) sala EG206
+orar7  zi1 ora15 LFA(2) sala AN210
+orar7  zi1 ora15 EGC(1) sala EG304
+orar7  zi1 ora16 LFA(2) sala AN210
+orar7  zi1 ora16 APD(1) sala ED120
+orar7  zi1 ora16 EGC(1) sala EG304
+orar7  zi1 ora16 RL(1) sala EG207
+orar7  zi1 ora16 CN(1) sala EG206
+orar7  zi1 ora17 LFA(2) sala AN210
+orar7  zi1 ora17 APD(1) sala ED120
+orar7  zi1 ora17 EGC(1) sala EG304
+orar7  zi1 ora17 RL(1) sala EG207
+orar7  zi1 ora17 CN(1) sala EG206
+orar7  zi1 ora18 RL(1) sala EG207
+orar7  zi1 ora18 APD(1) sala ED120
+orar7  zi1 ora18 CN(1) sala EG206
+orar7  zi1 ora18 EGC(1) sala EG304
+orar7  zi1 ora19 RL(1) sala EG207
+orar7  zi1 ora19 APD(1) sala ED120
+orar7  zi1 ora19 CN(1) sala EG206
+orar7  zi1 ora19 EGC(1) sala EG304
+orar7  zi2 ora8 RL(1) sala EG207
+orar7  zi2 ora8 LFA(2) sala AN210
+orar7  zi2 ora8 EG(2) sala BN217
+orar7  zi2 ora9 RL(1) sala EG207
+orar7  zi2 ora9 LFA(2) sala AN210
+orar7  zi2 ora9 EG(2) sala BN217
+orar7  zi2 ora11 ALGORITMI PARALELI SI DISTRIBUITI(0) sala EC101
+orar7  zi2 ora12 ALGORITMI PARALELI SI DISTRIBUITI(0) sala EC101
+orar7  zi2 ora13 ALGORITMI PARALELI SI DISTRIBUITI(0) sala EC101
+orar7  zi2 ora14 LIMBAJE FORMALE SI AUTOMATE(0) sala EC105
+orar7  zi2 ora15 LIMBAJE FORMALE SI AUTOMATE(0) sala EC105
+orar7  zi2 ora16 LIMBAJE FORMALE SI AUTOMATE(0) sala EC105
+orar7  zi2 ora18 EGC(1) sala EG304
+orar7  zi2 ora19 EGC(1) sala EG304
+orar7  zi3 ora8 RL(1) sala EG207
+orar7  zi3 ora8 APD(1) sala ED120
+orar7  zi3 ora8 LFA(2) sala AN217
+orar7  zi3 ora9 RL(1) sala EG207
+orar7  zi3 ora9 APD(1) sala ED120
+orar7  zi3 ora9 LFA(2) sala AN217
+orar7  zi3 ora11 RETELE LOCALE(0) sala EC004
+orar7  zi3 ora12 RETELE LOCALE(0) sala EC004
+orar7  zi3 ora13 RETELE LOCALE(0) sala EC004
+orar7  zi3 ora14 ECONOMIE GENERALA(0) sala EC002
+orar7  zi3 ora15 CALCULATOARE NUMERICE II(0) sala A02Leu
+orar7  zi3 ora16 CALCULATOARE NUMERICE II(0) sala A02Leu
+orar7  zi3 ora17 CALCULATOARE NUMERICE II(0) sala A02Leu
+orar7  zi3 ora18 EGC(1) sala EG304
+orar7  zi3 ora19 EGC(1) sala EG304
+orar7  zi4 ora11 ELEMENTE DE GRAFICA PE CALCULATOR(0) sala EC004
+orar7  zi4 ora12 ELEMENTE DE GRAFICA PE CALCULATOR(0) sala EC004
+orar7  zi4 ora13 ELEMENTE DE GRAFICA PE CALCULATOR(0) sala EC004
+orar7  zi4 ora13 CN(1) sala EG206
+orar7  zi4 ora13 EG(2) sala BN217
+orar7  zi4 ora14 CN(1) sala EG206
+orar7  zi4 ora14 EG(2) sala BN217
+orar7  zi4 ora16 EG(2) sala BN217
+orar7  zi4 ora16 EG(2) sala BN217
+orar7  zi4 ora16 CN(1) sala EG206
+orar7  zi4 ora17 EG(2) sala BN217
+orar7  zi4 ora17 EG(2) sala BN217
+orar7  zi4 ora17 CN(1) sala EG206
+orar7  zi5 ora8 RL(1) sala EG207
+orar7  zi5 ora8 EGC(1) sala EG304
+orar7  zi5 ora8 APD(1) sala ED120
+orar7  zi5 ora9 RL(1) sala EG207
+orar7  zi5 ora9 EGC(1) sala EG304
+orar7  zi5 ora9 APD(1) sala ED120
+orar7  zi5 ora10 EGC(1) sala EG304
+orar7  zi5 ora10 APD(1) sala ED120
+orar7  zi5 ora10 RL(1) sala EG207
+orar7  zi5 ora11 EGC(1) sala EG304
+orar7  zi5 ora11 APD(1) sala ED120
+orar7  zi5 ora11 RL(1) sala EG207
+orar8  zi1 ora8 CN(1) sala ED220
+orar8  zi1 ora9 CN(1) sala ED220
+orar8  zi1 ora10 CN(1) sala ED220
+orar8  zi1 ora11 CN(1) sala ED220
+orar8  zi1 ora12 RL(1) sala EG207
+orar8  zi1 ora13 RL(1) sala EG207
+orar8  zi1 ora14 ALGORITMI PARALELI SI DISTRIBUITI(0) sala EC101
+orar8  zi1 ora15 ALGORITMI PARALELI SI DISTRIBUITI(0) sala EC101
+orar8  zi1 ora16 ALGORITMI PARALELI SI DISTRIBUITI(0) sala EC101
+orar8  zi1 ora17 CALCULATOARE NUMERICE II(0) sala EC101
+orar8  zi1 ora18 CALCULATOARE NUMERICE II(0) sala EC101
+orar8  zi1 ora19 CALCULATOARE NUMERICE II(0) sala EC101
+orar8  zi2 ora8 LFA(2) sala AN213
+orar8  zi2 ora9 LFA(2) sala AN213
+orar8  zi2 ora10 CN(1) sala EG206
+orar8  zi2 ora10 EG(2) sala BN217
+orar8  zi2 ora10 EG(2) sala BN217
+orar8  zi2 ora11 CN(1) sala EG206
+orar8  zi2 ora11 EG(2) sala BN217
+orar8  zi2 ora11 EG(2) sala BN217
+orar8  zi2 ora12 EG(2) sala BN217
+orar8  zi2 ora12 ECONOMIE GENERALA(0) sala EC102
+orar8  zi2 ora13 EG(2) sala BN217
+orar8  zi2 ora13 ECONOMIE GENERALA(0) sala EC102
+orar8  zi2 ora14 LIMBAJE FORMALE SI AUTOMATE(0) sala EC105
+orar8  zi2 ora15 LIMBAJE FORMALE SI AUTOMATE(0) sala EC105
+orar8  zi2 ora16 LIMBAJE FORMALE SI AUTOMATE(0) sala EC105
+orar8  zi2 ora17 RETELE LOCALE(0) sala EC004
+orar8  zi2 ora18 RETELE LOCALE(0) sala EC004
+orar8  zi2 ora19 RETELE LOCALE(0) sala EC004
+orar8  zi3 ora8 ELEMENTE DE GRAFICA PE CALCULATOR(0) sala EC004
+orar8  zi3 ora9 ELEMENTE DE GRAFICA PE CALCULATOR(0) sala EC004
+orar8  zi3 ora10 ELEMENTE DE GRAFICA PE CALCULATOR(0) sala EC004
+orar8  zi3 ora12 EGC(1) sala EG304
+orar8  zi3 ora12 RL(1) sala EG207
+orar8  zi3 ora13 EGC(1) sala EG304
+orar8  zi3 ora13 RL(1) sala EG207
+orar8  zi3 ora14 APD(1) sala ED120
+orar8  zi3 ora14 RL(1) sala EG207
+orar8  zi3 ora14 EGC(1) sala EG304
+orar8  zi3 ora14 EG(2) sala BN217
+orar8  zi3 ora15 APD(1) sala ED120
+orar8  zi3 ora15 RL(1) sala EG207
+orar8  zi3 ora15 EGC(1) sala EG304
+orar8  zi3 ora15 EG(2) sala BN217
+orar8  zi3 ora16 APD(1) sala ED120
+orar8  zi3 ora16 RL(1) sala EG207
+orar8  zi3 ora17 APD(1) sala ED120
+orar8  zi3 ora17 RL(1) sala EG207
+orar8  zi3 ora18 RL(1) sala EG207
+orar8  zi3 ora18 APD(1) sala ED120
+orar8  zi3 ora19 RL(1) sala EG207
+orar8  zi3 ora19 APD(1) sala ED120
+orar8  zi4 ora8 LFA(2) sala AN205
+orar8  zi4 ora9 LFA(2) sala AN205
+orar8  zi4 ora10 CN(1) sala EG206
+orar8  zi4 ora11 CN(1) sala EG206
+orar8  zi4 ora12 APD(1) sala ED120
+orar8  zi4 ora12 CN(1) sala EG206
+orar8  zi4 ora13 APD(1) sala ED120
+orar8  zi4 ora13 CN(1) sala EG206
+orar8  zi4 ora14 RL(1) sala EG207
+orar8  zi4 ora15 RL(1) sala EG207
+orar8  zi4 ora16 LFA(2) sala AN205
+orar8  zi4 ora17 LFA(2) sala AN205
+orar8  zi4 ora18 LFA(2) sala AN205
+orar8  zi4 ora19 LFA(2) sala AN205
+orar8  zi5 ora10 CN(1) sala EG206
+orar8  zi5 ora11 CN(1) sala EG206
+orar8  zi5 ora12 RL(1) sala EG207
+orar8  zi5 ora12 APD(1) sala ED120
+orar8  zi5 ora13 RL(1) sala EG207
+orar8  zi5 ora13 APD(1) sala ED120
+orar8  zi5 ora14 APD(1) sala ED120
+orar8  zi5 ora14 RL(1) sala EG207
+orar8  zi5 ora14 CN(1) sala EG206
+orar8  zi5 ora15 APD(1) sala ED120
+orar8  zi5 ora15 RL(1) sala EG207
+orar8  zi5 ora15 CN(1) sala EG206
+orar8  zi5 ora16 CN(1) sala EG206
+orar8  zi5 ora16 EGC(1) sala EG304
+orar8  zi5 ora16 APD(1) sala ED120
+orar8  zi5 ora17 CN(1) sala EG206
+orar8  zi5 ora17 EGC(1) sala EG304
+orar8  zi5 ora17 APD(1) sala ED120
+orar8  zi5 ora18 APD(1) sala ED120
+orar8  zi5 ora18 EGC(1) sala EG304
+orar8  zi5 ora19 APD(1) sala ED120
+orar8  zi5 ora19 EGC(1) sala EG304
+orar9  zi1 ora8 LIMBAJE FORMALE SI AUTOMATE(0) sala EC101
+orar9  zi1 ora9 LIMBAJE FORMALE SI AUTOMATE(0) sala EC101
+orar9  zi1 ora10 LIMBAJE FORMALE SI AUTOMATE(0) sala EC101
+orar9  zi1 ora12 LFA(2) sala AN210
+orar9  zi1 ora12 CN(1) sala ED220
+orar9  zi1 ora13 LFA(2) sala AN210
+orar9  zi1 ora13 CN(1) sala ED220
+orar9  zi1 ora14 RL(1) sala EG207
+orar9  zi1 ora14 APD(1) sala ED120
+orar9  zi1 ora15 RL(1) sala EG207
+orar9  zi1 ora15 APD(1) sala ED120
+orar9  zi2 ora8 EG(2) sala BN217
+orar9  zi2 ora8 CN(1) sala EG206
+orar9  zi2 ora8 CN(1) sala ED220
+orar9  zi2 ora9 EG(2) sala BN217
+orar9  zi2 ora9 CN(1) sala EG206
+orar9  zi2 ora9 CN(1) sala ED220
+orar9  zi2 ora10 RL(1) sala EG207
+orar9  zi2 ora10 CN(1) sala ED220
+orar9  zi2 ora11 RL(1) sala EG207
+orar9  zi2 ora11 CN(1) sala ED220
+orar9  zi2 ora12 ECONOMIE GENERALA(0) sala EC102
+orar9  zi2 ora12 EG(2) sala BN217
+orar9  zi2 ora13 ECONOMIE GENERALA(0) sala EC102
+orar9  zi2 ora13 EG(2) sala BN217
+orar9  zi2 ora14 ELEMENTE DE GRAFICA PE CALCULATOR(0) sala A04Leu
+orar9  zi2 ora15 ELEMENTE DE GRAFICA PE CALCULATOR(0) sala A04Leu
+orar9  zi2 ora16 ELEMENTE DE GRAFICA PE CALCULATOR(0) sala A04Leu
+orar9  zi2 ora17 CALCULATOARE NUMERICE II(0) sala EC101
+orar9  zi2 ora18 CALCULATOARE NUMERICE II(0) sala EC101
+orar9  zi2 ora19 CALCULATOARE NUMERICE II(0) sala EC101
+orar9  zi3 ora8 EGC(1) sala EG304
+orar9  zi3 ora9 EGC(1) sala EG304
+orar9  zi3 ora10 APD(1) sala ED120
+orar9  zi3 ora10 RL(1) sala EG207
+orar9  zi3 ora10 EGC(1) sala EG304
+orar9  zi3 ora11 APD(1) sala ED120
+orar9  zi3 ora11 RL(1) sala EG207
+orar9  zi3 ora11 EGC(1) sala EG304
+orar9  zi3 ora12 CN(1) sala ED220
+orar9  zi3 ora12 LFA(2) sala EG404
+orar9  zi3 ora12 APD(1) sala ED120
+orar9  zi3 ora12 EG(2) sala BN217
+orar9  zi3 ora13 CN(1) sala ED220
+orar9  zi3 ora13 LFA(2) sala EG404
+orar9  zi3 ora13 APD(1) sala ED120
+orar9  zi3 ora13 EG(2) sala BN217
+orar9  zi3 ora14 ALGORITMI PARALELI SI DISTRIBUITI(0) sala EC004
+orar9  zi3 ora15 ALGORITMI PARALELI SI DISTRIBUITI(0) sala EC004
+orar9  zi3 ora16 ALGORITMI PARALELI SI DISTRIBUITI(0) sala EC004
+orar9  zi3 ora17 RETELE LOCALE(0) sala EC004
+orar9  zi3 ora18 RETELE LOCALE(0) sala EC004
+orar9  zi3 ora19 RETELE LOCALE(0) sala EC004
+orar9  zi4 ora8 CN(1) sala EG206
+orar9  zi4 ora8 APD(1) sala ED120
+orar9  zi4 ora8 RL(1) sala EG207
+orar9  zi4 ora8 EGC(1) sala EG304
+orar9  zi4 ora8 CN(1) sala ED220
+orar9  zi4 ora9 CN(1) sala EG206
+orar9  zi4 ora9 APD(1) sala ED120
+orar9  zi4 ora9 RL(1) sala EG207
+orar9  zi4 ora9 EGC(1) sala EG304
+orar9  zi4 ora9 CN(1) sala ED220
+orar9  zi4 ora10 EGC(1) sala EG304
+orar9  zi4 ora10 RL(1) sala EG207
+orar9  zi4 ora10 APD(1) sala ED120
+orar9  zi4 ora10 LFA(2) sala EG103
+orar9  zi4 ora11 EGC(1) sala EG304
+orar9  zi4 ora11 RL(1) sala EG207
+orar9  zi4 ora11 APD(1) sala ED120
+orar9  zi4 ora11 LFA(2) sala EG103
+orar9  zi4 ora12 CN(1) sala ED220
+orar9  zi4 ora12 RL(1) sala EG207
+orar9  zi4 ora12 LFA(2) sala EC002
+orar9  zi4 ora13 CN(1) sala ED220
+orar9  zi4 ora13 RL(1) sala EG207
+orar9  zi4 ora13 LFA(2) sala EC002
+orar9  zi4 ora14 APD(1) sala ED120
+orar9  zi4 ora14 EG(2) sala BN217
+orar9  zi4 ora15 APD(1) sala ED120
+orar9  zi4 ora15 EG(2) sala BN217
+orar9  zi4 ora16 APD(1) sala ED120
+orar9  zi4 ora16 RL(1) sala EG207
+orar9  zi4 ora17 APD(1) sala ED120
+orar9  zi4 ora17 RL(1) sala EG207
+orar9  zi4 ora18 RL(1) sala EG207
+orar9  zi4 ora18 APD(1) sala ED120
+orar9  zi4 ora19 RL(1) sala EG207
+orar9  zi4 ora19 APD(1) sala ED120
+orar10  zi1 ora9 ARHITECTURI si PRELUCRARI PARALELE(0) sala EC105
+orar10  zi1 ora10 ARHITECTURI si PRELUCRARI PARALELE(0) sala EC105
+orar10  zi1 ora11 ARHITECTURI si PRELUCRARI PARALELE(0) sala EC105
+orar10  zi1 ora11 MP(2) sala BN212
+orar10  zi1 ora11 MP(2) sala BN212
+orar10  zi1 ora11 MP(2) sala BN212
+orar10  zi1 ora11 MP(2) sala BN212
+orar10  zi1 ora12 MP(2) sala BN212
+orar10  zi1 ora12 MP(2) sala BN212
+orar10  zi1 ora12 MP(2) sala BN212
+orar10  zi1 ora12 MP(2) sala BN212
+orar10  zi1 ora16 APP(1) sala ED202
+orar10  zi1 ora16 PR(1) sala ED011
+orar10  zi1 ora17 APP(1) sala ED202
+orar10  zi1 ora17 PR(1) sala ED011
+orar10  zi1 ora18 PR(1) sala ED011
+orar10  zi1 ora18 APP(1) sala ED202
+orar10  zi1 ora19 PR(1) sala ED011
+orar10  zi1 ora19 APP(1) sala ED202
+orar10  zi2 ora10 APP(1) sala ED202
+orar10  zi2 ora10 BM(2) sala BN212a
+orar10  zi2 ora11 APP(1) sala ED202
+orar10  zi2 ora11 BM(2) sala BN212a
+orar10  zi2 ora12 BM(2) sala BN212a
+orar10  zi2 ora12 BM(2) sala BN212a
+orar10  zi2 ora12 BM(2) sala BN212a
+orar10  zi2 ora12 APP(1) sala ED202
+orar10  zi2 ora12 PR(1) sala EG106
+orar10  zi2 ora13 BM(2) sala BN212a
+orar10  zi2 ora13 BM(2) sala BN212a
+orar10  zi2 ora13 BM(2) sala BN212a
+orar10  zi2 ora13 APP(1) sala ED202
+orar10  zi2 ora13 PR(1) sala EG106
+orar10  zi2 ora14 SMP(1) sala EG206
+orar10  zi2 ora14 PR(1) sala EG106
+orar10  zi2 ora14 APP(1) sala ED202
+orar10  zi2 ora15 SMP(1) sala EG206
+orar10  zi2 ora15 PR(1) sala EG106
+orar10  zi2 ora15 APP(1) sala ED202
+orar10  zi2 ora16 SMP(1) sala EG206
+orar10  zi2 ora16 SMP(1) sala EG206
+orar10  zi2 ora17 SMP(1) sala EG206
+orar10  zi2 ora17 SMP(1) sala EG206
+orar10  zi2 ora18 SMP(1) sala EG206
+orar10  zi2 ora18 PR(1) sala EG106
+orar10  zi2 ora19 SMP(1) sala EG206
+orar10  zi2 ora19 PR(1) sala EG106
+orar10  zi3 ora8 APP(1) sala ED202
+orar10  zi3 ora9 APP(1) sala ED202
+orar10  zi3 ora10 APP(1) sala ED202
+orar10  zi3 ora10 PR(1) sala EG106
+orar10  zi3 ora11 APP(1) sala ED202
+orar10  zi3 ora11 PR(1) sala EG106
+orar10  zi3 ora12 PR(1) sala EG106
+orar10  zi3 ora12 APP(1) sala ED202
+orar10  zi3 ora13 PR(1) sala EG106
+orar10  zi3 ora13 APP(1) sala ED202
+orar10  zi3 ora14 PR(1) sala EG106
+orar10  zi3 ora15 PR(1) sala EG106
+orar10  zi4 ora18 PROIECTAREA RETELELOR(0) sala EC105
+orar10  zi4 ora19 PROIECTAREA RETELELOR(0) sala EC105
+orar10  zi4 ora20 PROIECTAREA RETELELOR(0) sala EC105
+orar10  zi5 ora8 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar10  zi5 ora9 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar10  zi5 ora10 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar10  zi5 ora10 BAZELE MANAGEMENTULUI(0) sala AN034
+orar10  zi5 ora11 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar10  zi5 ora11 BAZELE MANAGEMENTULUI(0) sala AN034
+orar10  zi5 ora14 STRUCTURI MULTIPROCESOR(0) sala EC101
+orar10  zi5 ora15 STRUCTURI MULTIPROCESOR(0) sala EC101
+orar10  zi5 ora16 STRUCTURI MULTIPROCESOR(0) sala EC101
+orar11  zi1 ora10 SI(1) sala ED218
+orar11  zi1 ora11 SI(1) sala ED218
+orar11  zi1 ora12 SI(1) sala ED218
+orar11  zi1 ora13 SI(1) sala ED218
+orar11  zi1 ora14 SI(1) sala ED218
+orar11  zi1 ora15 SI(1) sala ED218
+orar11  zi1 ora16 SI(1) sala ED218
+orar11  zi1 ora17 SI(1) sala ED218
+orar11  zi1 ora18 SI(1) sala ED218
+orar11  zi1 ora19 SI(1) sala ED218
+orar11  zi2 ora8 MP(2) sala BN212a
+orar11  zi2 ora8 BM(2) sala BN212a
+orar11  zi2 ora8 MP(2) sala BN212a
+orar11  zi2 ora8 BM(2) sala BN212a
+orar11  zi2 ora8 MP(2) sala BN212a
+orar11  zi2 ora8 BM(2) sala BN212a
+orar11  zi2 ora9 MP(2) sala BN212a
+orar11  zi2 ora9 BM(2) sala BN212a
+orar11  zi2 ora9 MP(2) sala BN212a
+orar11  zi2 ora9 BM(2) sala BN212a
+orar11  zi2 ora9 MP(2) sala BN212a
+orar11  zi2 ora9 BM(2) sala BN212a
+orar11  zi2 ora10 Sisteme Incorporate(0) sala EC002
+orar11  zi2 ora11 Sisteme Incorporate(0) sala EC002
+orar11  zi2 ora12 Sisteme Incorporate(0) sala EC002
+orar11  zi2 ora13 Sisteme cu Microprocesoare(0) sala EC002
+orar11  zi2 ora14 Sisteme cu Microprocesoare(0) sala EC002
+orar11  zi2 ora15 Sisteme cu Microprocesoare(0) sala EC002
+orar11  zi3 ora9 Prelucrarea Semnalelor(0) sala EC102
+orar11  zi3 ora10 Prelucrarea Semnalelor(0) sala EC102
+orar11  zi3 ora11 Prelucrarea Semnalelor(0) sala EC102
+orar11  zi3 ora12 PS(1) sala EG206
+orar11  zi3 ora13 PS(1) sala EG206
+orar11  zi3 ora14 SM(1) sala ED220
+orar11  zi3 ora14 PS(1) sala EG206
+orar11  zi3 ora15 SM(1) sala ED220
+orar11  zi3 ora15 PS(1) sala EG206
+orar11  zi3 ora16 PS(1) sala EG206
+orar11  zi3 ora16 SM(1) sala ED220
+orar11  zi3 ora17 PS(1) sala EG206
+orar11  zi3 ora17 SM(1) sala ED220
+orar11  zi4 ora18 SM(1) sala ED220
+orar11  zi4 ora19 SM(1) sala ED220
+orar11  zi5 ora8 PS(1) sala EG405
+orar11  zi5 ora8 SM(1) sala EG206
+orar11  zi5 ora8 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar11  zi5 ora9 PS(1) sala EG405
+orar11  zi5 ora9 SM(1) sala EG206
+orar11  zi5 ora9 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar11  zi5 ora10 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar11  zi5 ora10 BAZELE MANAGEMENTULUI(0) sala AN034
+orar11  zi5 ora10 PS(1) sala EG405
+orar11  zi5 ora11 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar11  zi5 ora11 BAZELE MANAGEMENTULUI(0) sala AN034
+orar11  zi5 ora11 PS(1) sala EG405
+orar11  zi5 ora12 SM(1) sala EG206
+orar11  zi5 ora13 SM(1) sala EG206
+orar12  zi1 ora8 CPL(1) sala EG106
+orar12  zi1 ora8 BD(1) sala EG103
+orar12  zi1 ora9 CPL(1) sala EG106
+orar12  zi1 ora9 BD(1) sala EG103
+orar12  zi1 ora10 BD(1) sala EG103
+orar12  zi1 ora10 MP(2) sala BN212a
+orar12  zi1 ora11 BD(1) sala EG103
+orar12  zi1 ora11 MP(2) sala BN212a
+orar12  zi1 ora12 Baze de Date II(0) sala EG305
+orar12  zi1 ora13 Baze de Date II(0) sala EG305
+orar12  zi1 ora14 Baze de Date II(0) sala EG305
+orar12  zi2 ora8 SPRC(1) sala EG205
+orar12  zi2 ora8 BM(2) sala BN212a
+orar12  zi2 ora8 BD(1) sala EG103
+orar12  zi2 ora9 SPRC(1) sala EG205
+orar12  zi2 ora9 BM(2) sala BN212a
+orar12  zi2 ora9 BD(1) sala EG103
+orar12  zi2 ora10 SPRC(1) sala EG205
+orar12  zi2 ora10 BD(1) sala EG103
+orar12  zi2 ora10 CPL(1) sala EG106
+orar12  zi2 ora10 BM(2) sala BN212a
+orar12  zi2 ora11 SPRC(1) sala EG205
+orar12  zi2 ora11 BD(1) sala EG103
+orar12  zi2 ora11 CPL(1) sala EG106
+orar12  zi2 ora11 BM(2) sala BN212a
+orar12  zi2 ora12 MP(2) sala BN212a
+orar12  zi2 ora12 BM(2) sala BN212a
+orar12  zi2 ora12 SPRC(1) sala EG205
+orar12  zi2 ora13 MP(2) sala BN212a
+orar12  zi2 ora13 BM(2) sala BN212a
+orar12  zi2 ora13 SPRC(1) sala EG205
+orar12  zi2 ora14 SPRC(1) sala EG205
+orar12  zi2 ora15 SPRC(1) sala EG205
+orar12  zi3 ora8 CPL(1) sala EG106
+orar12  zi3 ora9 CPL(1) sala EG106
+orar12  zi3 ora11 Inteligenta Artificiala(0) sala EC101
+orar12  zi3 ora12 Inteligenta Artificiala(0) sala EC101
+orar12  zi3 ora13 Inteligenta Artificiala(0) sala EC101
+orar12  zi3 ora14 IA(1) sala EG404
+orar12  zi3 ora14 BD(1) sala EG103
+orar12  zi3 ora15 IA(1) sala EG404
+orar12  zi3 ora15 BD(1) sala EG103
+orar12  zi3 ora16 BD(1) sala EG103
+orar12  zi3 ora16 IA(1) sala EG404
+orar12  zi3 ora17 BD(1) sala EG103
+orar12  zi3 ora17 IA(1) sala EG404
+orar12  zi4 ora8 COMPILATOARE(0) sala EC101
+orar12  zi4 ora9 COMPILATOARE(0) sala EC101
+orar12  zi4 ora10 COMPILATOARE(0) sala EC101
+orar12  zi4 ora11 SISTEME DE PROGRAMARE A RETELELOR DE CALCULATOARE(0) sala EC101
+orar12  zi4 ora12 SISTEME DE PROGRAMARE A RETELELOR DE CALCULATOARE(0) sala EC101
+orar12  zi4 ora13 SISTEME DE PROGRAMARE A RETELELOR DE CALCULATOARE(0) sala EC101
+orar12  zi5 ora8 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar12  zi5 ora8 CPL(1) sala EG106
+orar12  zi5 ora9 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar12  zi5 ora9 CPL(1) sala EG106
+orar12  zi5 ora10 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar12  zi5 ora10 BAZELE MANAGEMENTULUI(0) sala AN034
+orar12  zi5 ora11 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar12  zi5 ora11 BAZELE MANAGEMENTULUI(0) sala AN034
+orar12  zi5 ora12 IA(1) sala EG404
+orar12  zi5 ora13 IA(1) sala EG404
+orar12  zi5 ora14 IA(1) sala EG404
+orar12  zi5 ora15 IA(1) sala EG404
+orar13  zi1 ora8 MP(2) sala BN212a
+orar13  zi1 ora9 MP(2) sala BN212a
+orar13  zi1 ora10 IA(1) sala EG404
+orar13  zi1 ora10 AII(1) sala EG205
+orar13  zi1 ora10 IOC(1) sala EG405
+orar13  zi1 ora11 IA(1) sala EG404
+orar13  zi1 ora11 AII(1) sala EG205
+orar13  zi1 ora11 IOC(1) sala EG405
+orar13  zi1 ora12 IA(1) sala EG404
+orar13  zi1 ora12 IOC(1) sala EG405
+orar13  zi1 ora12 IA(1) sala EG404
+orar13  zi1 ora13 IA(1) sala EG404
+orar13  zi1 ora13 IOC(1) sala EG405
+orar13  zi1 ora13 IA(1) sala EG404
+orar13  zi1 ora14 IOC(1) sala EG405
+orar13  zi1 ora14 AII(1) sala EG205
+orar13  zi1 ora15 IOC(1) sala EG405
+orar13  zi1 ora15 AII(1) sala EG205
+orar13  zi1 ora16 AII(1) sala EG205
+orar13  zi1 ora17 AII(1) sala EG205
+orar13  zi1 ora18 AII(1) sala EG205
+orar13  zi1 ora19 AII(1) sala EG205
+orar13  zi2 ora8 SPG(1) sala EG304
+orar13  zi2 ora9 SPG(1) sala EG304
+orar13  zi2 ora10 SPG(1) sala EG304
+orar13  zi2 ora10 BM(2) sala BN212a
+orar13  zi2 ora11 SPG(1) sala EG304
+orar13  zi2 ora11 BM(2) sala BN212a
+orar13  zi2 ora12 SPG(1) sala EG304
+orar13  zi2 ora13 SPG(1) sala EG304
+orar13  zi2 ora14 Inteligenta Artificiala(0) sala EC004
+orar13  zi2 ora15 Inteligenta Artificiala(0) sala EC004
+orar13  zi2 ora16 Inteligenta Artificiala(0) sala EC004
+orar13  zi2 ora17 Aplicatii Integrate pentru Intreprinderi(0) sala A04Leu
+orar13  zi2 ora18 Aplicatii Integrate pentru Intreprinderi(0) sala A04Leu
+orar13  zi2 ora19 Aplicatii Integrate pentru Intreprinderi(0) sala A04Leu
+orar13  zi3 ora14 Sisteme de Prelucrare Grafica(0) sala EC101
+orar13  zi3 ora15 Sisteme de Prelucrare Grafica(0) sala EC101
+orar13  zi3 ora16 Sisteme de Prelucrare Grafica(0) sala EC101
+orar13  zi3 ora17 Interfata Om Calculator(0) sala EC101
+orar13  zi3 ora18 Interfata Om Calculator(0) sala EC101
+orar13  zi3 ora19 Interfata Om Calculator(0) sala EC101
+orar13  zi4 ora8 IOC(1) sala EG405
+orar13  zi4 ora9 IOC(1) sala EG405
+orar13  zi4 ora10 IOC(1) sala EG405
+orar13  zi4 ora11 IOC(1) sala EG405
+orar13  zi4 ora12 IA(1) sala EG404
+orar13  zi4 ora12 IOC(1) sala EG405
+orar13  zi4 ora13 IA(1) sala EG404
+orar13  zi4 ora13 IOC(1) sala EG405
+orar13  zi4 ora16 IA(1) sala EG404
+orar13  zi4 ora16 SPG(1) sala EG304
+orar13  zi4 ora17 IA(1) sala EG404
+orar13  zi4 ora17 SPG(1) sala EG304
+orar13  zi4 ora18 SPG(1) sala EG304
+orar13  zi4 ora19 SPG(1) sala EG304
+orar13  zi5 ora8 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar13  zi5 ora9 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar13  zi5 ora10 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar13  zi5 ora10 BAZELE MANAGEMENTULUI(0) sala AN034
+orar13  zi5 ora11 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar13  zi5 ora11 BAZELE MANAGEMENTULUI(0) sala AN034
+orar14  zi1 ora9 INTEGRAREA SISTEMELOR INFORMATICE(0) sala EC102
+orar14  zi1 ora10 INTEGRAREA SISTEMELOR INFORMATICE(0) sala EC102
+orar14  zi1 ora11 INTEGRAREA SISTEMELOR INFORMATICE(0) sala EC102
+orar14  zi1 ora12 UBD(1) sala EG103
+orar14  zi1 ora12 MP(2) sala BN212a
+orar14  zi1 ora12 BM(2) sala BN212a
+orar14  zi1 ora13 UBD(1) sala EG103
+orar14  zi1 ora13 MP(2) sala BN212a
+orar14  zi1 ora13 BM(2) sala BN212a
+orar14  zi1 ora14 ISI(1) sala EG311
+orar14  zi1 ora14 UBD(1) sala EG103
+orar14  zi1 ora15 ISI(1) sala EG311
+orar14  zi1 ora15 UBD(1) sala EG103
+orar14  zi1 ora16 ISI(1) sala EG311
+orar14  zi1 ora16 MPS(1) sala EG405
+orar14  zi1 ora16 UBD(1) sala EG103
+orar14  zi1 ora17 ISI(1) sala EG311
+orar14  zi1 ora17 MPS(1) sala EG405
+orar14  zi1 ora17 UBD(1) sala EG103
+orar14  zi1 ora18 ISI(1) sala EG311
+orar14  zi1 ora18 MPS(1) sala EG405
+orar14  zi1 ora18 UBD(1) sala EG103
+orar14  zi1 ora19 ISI(1) sala EG311
+orar14  zi1 ora19 MPS(1) sala EG405
+orar14  zi1 ora19 UBD(1) sala EG103
+orar14  zi2 ora10 EP(1) sala R408
+orar14  zi2 ora11 EP(1) sala R408
+orar14  zi2 ora12 MP(2) sala BN212a
+orar14  zi2 ora12 BM(2) sala BN212a
+orar14  zi2 ora12 EP(1) sala R408
+orar14  zi2 ora13 MP(2) sala BN212a
+orar14  zi2 ora13 BM(2) sala BN212a
+orar14  zi2 ora13 EP(1) sala R408
+orar14  zi2 ora14 EP(1) sala R408
+orar14  zi2 ora15 EP(1) sala R408
+orar14  zi2 ora16 EP(1) sala R408
+orar14  zi2 ora17 EP(1) sala R408
+orar14  zi2 ora18 MPS(1) sala EG405
+orar14  zi2 ora18 EP(1) sala R408
+orar14  zi2 ora19 MPS(1) sala EG405
+orar14  zi2 ora19 EP(1) sala R408
+orar14  zi3 ora12 UBD(1) sala EG103
+orar14  zi3 ora13 UBD(1) sala EG103
+orar14  zi3 ora15 Managementul Proiectelor Software(0) sala EC002
+orar14  zi3 ora16 Managementul Proiectelor Software(0) sala EC002
+orar14  zi3 ora17 Managementul Proiectelor Software(0) sala EC002
+orar14  zi3 ora18 MPS(1) sala EG405
+orar14  zi3 ora18 ISI(1) sala EG311
+orar14  zi3 ora19 MPS(1) sala EG405
+orar14  zi3 ora19 ISI(1) sala EG311
+orar14  zi4 ora10 EP(1) sala R408
+orar14  zi4 ora11 EP(1) sala R408
+orar14  zi4 ora12 EP(1) sala R408
+orar14  zi4 ora13 EP(1) sala R408
+orar14  zi4 ora14 EP(1) sala R408
+orar14  zi4 ora15 EP(1) sala R408
+orar14  zi4 ora17 Utilizarea Bazelor de Date(0) sala EC101
+orar14  zi4 ora18 Utilizarea Bazelor de Date(0) sala EC101
+orar14  zi4 ora19 Utilizarea Bazelor de Date(0) sala EC101
+orar14  zi5 ora8 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar14  zi5 ora9 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar14  zi5 ora10 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar14  zi5 ora10 BAZELE MANAGEMENTULUI(0) sala AN034
+orar14  zi5 ora11 MANAGEMENTUL PROIECTELOR(0) sala AN034
+orar14  zi5 ora11 BAZELE MANAGEMENTULUI(0) sala AN034
+orar14  zi5 ora12 UBD(1) sala EG103
+orar14  zi5 ora12 MPS(1) sala EG405
+orar14  zi5 ora13 UBD(1) sala EG103
+orar14  zi5 ora13 MPS(1) sala EG405
+orar14  zi5 ora14 Evaluarea Performantelor(0) sala EC004
+orar14  zi5 ora15 Evaluarea Performantelor(0) sala EC004
+orar14  zi5 ora16 Evaluarea Performantelor(0) sala EC004
+orar15  zi3 ora16 SA-VLSI(1) sala EF001
+orar15  zi3 ora17 SA-VLSI(1) sala EF001
+orar15  zi3 ora18 Structuri avansate VLSI(0) sala EF001
+orar15  zi3 ora19 Structuri avansate VLSI(0) sala EF001
+orar15  zi3 ora20 SA-VLSI(1) sala EF001
+orar15  zi3 ora20 SA-VLSI(1) sala EF001
+orar15  zi3 ora21 SA-VLSI(1) sala EF001
+orar15  zi3 ora21 SA-VLSI(1) sala EF001
+orar15  zi4 ora16 Circuite inteligente bazate pe logica fuzzy(0) sala EF001
+orar15  zi4 ora17 Circuite inteligente bazate pe logica fuzzy(0) sala EF001
+orar15  zi4 ora18 CIBLF(1) sala EF001
+orar15  zi4 ora18 CIBLF(1) sala EF001
+orar15  zi4 ora19 CIBLF(1) sala EF001
+orar15  zi4 ora19 CIBLF(1) sala EF001
+orar16  zi3 ora12 SSI(3) sala ED320
+orar16  zi3 ora13 SSI(3) sala ED320
+orar16  zi3 ora14 Architectura orientata pe servicii a sistemelor informatice(0) sala EC102
+orar16  zi3 ora15 Architectura orientata pe servicii a sistemelor informatice(0) sala EC102
+orar16  zi3 ora16 AOSSI(3) sala EG403
+orar16  zi3 ora17 AOSSI(3) sala EG403
+orar16  zi3 ora18 Securitatea sistemelor informatice(0) sala AN034
+orar16  zi3 ora19 Securitatea sistemelor informatice(0) sala AN034
+orar16  zi5 ora8 Implementarea sistemelor de baze de date(0) sala EG305
+orar16  zi5 ora9 Implementarea sistemelor de baze de date(0) sala EG305
+orar16  zi5 ora10 ISBD(1) sala EG103
+orar16  zi5 ora10 ISBD(1) sala EG103
+orar16  zi5 ora10 ISBD(1) sala EG103
+orar16  zi5 ora11 ISBD(1) sala EG103
+orar16  zi5 ora11 ISBD(1) sala EG103
+orar16  zi5 ora11 ISBD(1) sala EG103
+orar16  zi5 ora12 Sisteme avansate pentru baze de date(0) sala EC102
+orar16  zi5 ora13 Sisteme avansate pentru baze de date(0) sala EC102
+orar16  zi5 ora14 SABD(1) sala EG103
+orar16  zi5 ora14 SABD(1) sala EG103
+orar16  zi5 ora14 SABD(1) sala EG103
+orar16  zi5 ora15 SABD(1) sala EG103
+orar16  zi5 ora15 SABD(1) sala EG103
+orar16  zi5 ora15 SABD(1) sala EG103
+orar17  zi1 ora10 Cloud Computing(0) sala EC102
+orar17  zi1 ora11 Cloud Computing(0) sala EC102
+orar17  zi1 ora12 CC(1) sala EG205
+orar17  zi1 ora12 CC(1) sala EG205
+orar17  zi1 ora13 CC(1) sala EG205
+orar17  zi1 ora13 CC(1) sala EG205
+orar17  zi1 ora16 SAC(1) sala EG103b
+orar17  zi1 ora16 SAC(1) sala EG103b
+orar17  zi1 ora16 SAC(1) sala EG103b
+orar17  zi1 ora17 SAC(1) sala EG103b
+orar17  zi1 ora17 SAC(1) sala EG103b
+orar17  zi1 ora17 SAC(1) sala EG103b
+orar17  zi1 ora18 Sisteme adaptive si colaborative(0) sala EC102
+orar17  zi1 ora19 Sisteme adaptive si colaborative(0) sala EC102
+orar17  zi3 ora8 E-Government(0) sala ED220
+orar17  zi3 ora9 E-Government(0) sala ED220
+orar17  zi3 ora10 E-GOV(1) sala ED220
+orar17  zi3 ora10 E-GOV(1) sala ED220
+orar17  zi3 ora10 E-GOV(1) sala ED220
+orar17  zi3 ora11 E-GOV(1) sala ED220
+orar17  zi3 ora11 E-GOV(1) sala ED220
+orar17  zi3 ora11 E-GOV(1) sala ED220
+orar18  zi2 ora8 Categorii si Computer Science(0) sala AN210
+orar18  zi2 ora9 Categorii si Computer Science(0) sala AN210
+orar18  zi2 ora10 CCS(2) sala R417
+orar18  zi2 ora11 CCS(2) sala R417
+orar18  zi2 ora12 CCS(2) sala R417
+orar18  zi2 ora13 CCS(2) sala R417
+orar18  zi3 ora16 GC(1) sala EG405
+orar18  zi3 ora17 GC(1) sala EG405
+orar18  zi3 ora18 Geometrie Computationala(0) sala EC002
+orar18  zi3 ora19 Geometrie Computationala(0) sala EC002
+orar18  zi5 ora16 TCST(1) sala ED202
+orar18  zi5 ora16 TCST(1) sala ED202
+orar18  zi5 ora16 CV(3) sala EG404
+orar18  zi5 ora17 TCST(1) sala ED202
+orar18  zi5 ora17 TCST(1) sala ED202
+orar18  zi5 ora17 CV(3) sala EG404
+orar18  zi5 ora18 Tehnici de Comunicare si Scriere Tehnica(0) sala EC105
+orar18  zi5 ora18 Computer Vision(0) sala EC004
+orar18  zi5 ora19 Tehnici de Comunicare si Scriere Tehnica(0) sala EC105
+orar18  zi5 ora19 Computer Vision(0) sala EC004
+orar19  zi2 ora8 SAAPI(1) sala EG405
+orar19  zi2 ora9 SAAPI(1) sala EG405
+orar19  zi2 ora10 Sisteme avansate de analiza si prelucrare a imaginilor(0) sala EC102
+orar19  zi2 ora11 Sisteme avansate de analiza si prelucrare a imaginilor(0) sala EC102
+orar19  zi2 ora12 SAAPI(1) sala EG405
+orar19  zi2 ora13 SAAPI(1) sala EG405
+orar19  zi2 ora14 Tehnici de programare pentru prelucrari grafice de inalta performanta(0) sala EG404
+orar19  zi2 ora15 Tehnici de programare pentru prelucrari grafice de inalta performanta(0) sala EG404
+orar19  zi2 ora16 TPPGIP(1) sala EG304
+orar19  zi2 ora16 TPPGIP(1) sala EG304
+orar19  zi2 ora17 TPPGIP(1) sala EG304
+orar19  zi2 ora17 TPPGIP(1) sala EG304
+orar19  zi4 ora8 TM3D(1) sala EG204
+orar19  zi4 ora9 TM3D(1) sala EG204
+orar19  zi4 ora10 Tehnici de modelare 3D(0) sala EG204
+orar19  zi4 ora11 Tehnici de modelare 3D(0) sala EG204
+orar19  zi4 ora12 TM3D(1) sala EG204
+orar19  zi4 ora13 TM3D(1) sala EG204
+orar19  zi4 ora16 IRV(1) sala EG204
+orar19  zi4 ora17 IRV(1) sala EG204
+orar19  zi4 ora18 Introducere in Realitatea Virtuala(0) sala EG204
+orar19  zi4 ora19 Introducere in Realitatea Virtuala(0) sala EG204
+orar19  zi4 ora20 IRV(1) sala EG204
+orar19  zi4 ora21 IRV(1) sala EG204
+orar20  zi1 ora16 Knowledge Representation and Reasoning(0) sala EC102
+orar20  zi1 ora17 Knowledge Representation and Reasoning(0) sala EC102
+orar20  zi1 ora18 KRR(1) sala EG404
+orar20  zi1 ora19 KRR(1) sala EG404
+orar20  zi3 ora16 Data Mining(0) sala EC102
+orar20  zi3 ora17 Data Mining(0) sala EC102
+orar20  zi3 ora18 DM(3) sala EG404
+orar20  zi3 ora18 DM(3) sala EG404
+orar20  zi3 ora19 DM(3) sala EG404
+orar20  zi3 ora19 DM(3) sala EG404
+orar20  zi4 ora14 TSFP(1) sala EG103b
+orar20  zi4 ora14 TSFP(1) sala EG103b
+orar20  zi4 ora15 TSFP(1) sala EG103b
+orar20  zi4 ora15 TSFP(1) sala EG103b
+orar20  zi4 ora16 Type Systems and Functional Programming(0) sala EC102
+orar20  zi4 ora17 Type Systems and Functional Programming(0) sala EC102
+orar20  zi4 ora18 TSFP(1) sala EG103b
+orar20  zi4 ora19 TSFP(1) sala EG103b
+orar21  zi1 ora16 Reprezentarea cunostintelor(0) sala EC102
+orar21  zi1 ora17 Reprezentarea cunostintelor(0) sala EC102
+orar21  zi1 ora18 Sisteme adaptive si colaborative(0) sala EC102
+orar21  zi1 ora19 Sisteme adaptive si colaborative(0) sala EC102
+orar21  zi1 ora20 SAC(1) sala EG103b
+orar21  zi1 ora20 SAC(1) sala EG103b
+orar21  zi1 ora21 SAC(1) sala EG103b
+orar21  zi1 ora21 SAC(1) sala EG103b
+orar21  zi2 ora16 Dezvoltarea aplicatiilor pentru Internet Java EE si .NET(0) sala EC102
+orar21  zi2 ora17 Dezvoltarea aplicatiilor pentru Internet Java EE si .NET(0) sala EC102
+orar21  zi2 ora18 DAI(1) sala EG205
+orar21  zi2 ora18 DAI(1) sala EG205
+orar21  zi2 ora19 DAI(1) sala EG205
+orar21  zi2 ora19 DAI(1) sala EG205
+orar21  zi4 ora18 RCS(1) sala EG404
+orar21  zi4 ora19 RCS(1) sala EG404
+orar22  zi2 ora18 Managementul si Securitatea Informatiilor(0) sala EC102
+orar22  zi2 ora19 Managementul si Securitatea Informatiilor(0) sala EC102
+orar22  zi2 ora20 MSI(1) sala EC102
+orar22  zi2 ora20 MSI(1) sala EC102
+orar22  zi2 ora21 MSI(1) sala EC102
+orar22  zi2 ora21 MSI(1) sala EC102
+orar22  zi3 ora17 Management de resurse umane(0) sala AN030
+orar22  zi3 ora18 Management de resurse umane(0) sala AN030
+orar22  zi3 ora19 MRU(1) sala AN030
+orar22  zi3 ora19 MRU(1) sala AN030
+orar22  zi3 ora20 MRU(1) sala AN030
+orar22  zi3 ora20 MRU(1) sala AN030
+orar22  zi5 ora8 Management financiar(0) sala EC002
+orar22  zi5 ora9 Management financiar(0) sala EC002
+orar22  zi5 ora10 MFN(1) sala BN230
+orar22  zi5 ora10 MFN(1) sala BN230
+orar22  zi5 ora11 MFN(1) sala BN230
+orar22  zi5 ora11 MFN(1) sala BN230
+orar22  zi5 ora12 MFN(1) sala BN230
+orar22  zi5 ora13 MFN(1) sala BN230
+orar23  zi1 ora16 SCR(1) sala EG106
+orar23  zi1 ora17 SCR(1) sala EG106
+orar23  zi1 ora18 Securitatea calculatoarelor si a retelelor(0) sala EC002
+orar23  zi1 ora19 Securitatea calculatoarelor si a retelelor(0) sala EC002
+orar23  zi2 ora16 PP(1) sala ED202
+orar23  zi2 ora16 PP(1) sala ED202
+orar23  zi2 ora16 PP(1) sala ED202
+orar23  zi2 ora17 PP(1) sala ED202
+orar23  zi2 ora17 PP(1) sala ED202
+orar23  zi2 ora17 PP(1) sala ED202
+orar23  zi2 ora18 Parallel Programming(0) sala ED202
+orar23  zi2 ora19 Parallel Programming(0) sala ED202
+orar23  zi3 ora8 Metode si Algoritmi de Planificare(0) sala EC002
+orar23  zi3 ora9 Metode si Algoritmi de Planificare(0) sala EC002
+orar23  zi3 ora10 MAP(3) sala EG403
+orar23  zi3 ora11 MAP(3) sala EG403
+orar23  zi3 ora16 SO(3) sala EG106
+orar23  zi3 ora17 SO(3) sala EG106
+orar23  zi3 ora18 Sisteme de Operare(0) sala EC102
+orar23  zi3 ora19 Sisteme de Operare(0) sala EC102
+orar24  zi1 ora8 Infrastructura si Servicii pentru Retele Mobile(0) sala EC002
+orar24  zi1 ora9 Infrastructura si Servicii pentru Retele Mobile(0) sala EC002
+orar24  zi1 ora10 ISRM(1) sala EG106
+orar24  zi1 ora10 ISRM(1) sala EG106
+orar24  zi1 ora11 ISRM(1) sala EG106
+orar24  zi1 ora11 ISRM(1) sala EG106
+orar24  zi1 ora12 ISRM(1) sala EG106
+orar24  zi1 ora13 ISRM(1) sala EG106
+orar24  zi2 ora16 SCR(1) sala EG106
+orar24  zi2 ora16 SCR(1) sala EG106
+orar24  zi2 ora17 SCR(1) sala EG106
+orar24  zi2 ora17 SCR(1) sala EG106
+orar24  zi2 ora18 Securitatea calculatoarelor si a retelelor(0) sala EC002
+orar24  zi2 ora19 Securitatea calculatoarelor si a retelelor(0) sala EC002
+orar24  zi2 ora20 SCR(1) sala EG106
+orar24  zi2 ora21 SCR(1) sala EG106
+orar24  zi4 ora16 GSR(1) sala EG106
+orar24  zi4 ora17 GSR(1) sala EG106
+orar24  zi4 ora18 Gestiunea serviciilor de retea(0) sala EC102
+orar24  zi4 ora19 Gestiunea serviciilor de retea(0) sala EC102
+orar24  zi4 ora20 GSR(1) sala EG106
+orar24  zi4 ora20 GSR(1) sala EG106
+orar24  zi4 ora21 GSR(1) sala EG106
+orar24  zi4 ora21 GSR(1) sala EG106
+orar25  zi1 ora8 CC(1) sala EG205
+orar25  zi1 ora9 CC(1) sala EG205
+orar25  zi1 ora10 Cloud Computing(0) sala EC002
+orar25  zi1 ora11 Cloud Computing(0) sala EC002
+orar25  zi2 ora14 DAI(1) sala ED120
+orar25  zi2 ora14 DAI(1) sala ED120
+orar25  zi2 ora14 DAI(1) sala ED120
+orar25  zi2 ora15 DAI(1) sala ED120
+orar25  zi2 ora15 DAI(1) sala ED120
+orar25  zi2 ora15 DAI(1) sala ED120
+orar25  zi2 ora16 Dezvoltarea aplicatiilor pentru Internet Java EE si .NET(0) sala EC102
+orar25  zi2 ora17 Dezvoltarea aplicatiilor pentru Internet Java EE si .NET(0) sala EC102
+orar25  zi3 ora12 AOSSI(1) sala EG403
+orar25  zi3 ora12 AOSSI(1) sala EG403
+orar25  zi3 ora12 AOSSI(1) sala EG403
+orar25  zi3 ora13 AOSSI(1) sala EG403
+orar25  zi3 ora13 AOSSI(1) sala EG403
+orar25  zi3 ora13 AOSSI(1) sala EG403
+orar25  zi3 ora14 Architectura orientata pe servicii a sistemelor informatice(0) sala EC102
+orar25  zi3 ora15 Architectura orientata pe servicii a sistemelor informatice(0) sala EC102
+orar26  zi2 ora16 Retele Wireless de Senzori(0) sala ED218
+orar26  zi2 ora17 Retele Wireless de Senzori(0) sala ED218
+orar26  zi2 ora18 RWS(3) sala ED218
+orar26  zi2 ora19 RWS(3) sala ED218
+orar26  zi3 ora14 SPD(1) sala ED202
+orar26  zi3 ora14 SPD(1) sala ED202
+orar26  zi3 ora15 SPD(1) sala ED202
+orar26  zi3 ora15 SPD(1) sala ED202
+orar26  zi3 ora16 Sisteme paralele si distribuite(0) sala ED202
+orar26  zi3 ora17 Sisteme paralele si distribuite(0) sala ED202
+orar26  zi3 ora18 SPD(1) sala ED202
+orar26  zi3 ora19 SPD(1) sala ED202
+orar26  zi4 ora16 MTPHPC(1) sala ED202
+orar26  zi4 ora16 MTPHPC(1) sala ED202
+orar26  zi4 ora16 MTPHPC(1) sala ED202
+orar26  zi4 ora17 MTPHPC(1) sala ED202
+orar26  zi4 ora17 MTPHPC(1) sala ED202
+orar26  zi4 ora17 MTPHPC(1) sala ED202
+orar26  zi4 ora18 Metode si tehnici de programare in High Performance Computing(0) sala ED202
+orar26  zi4 ora19 Metode si tehnici de programare in High Performance Computing(0) sala ED202
+orar27  zi1 ora20 Antreprenoriat, protectia proprietatii intelectuale si diseminare in cercetare(0) sala EC101
+orar27  zi1 ora21 Antreprenoriat, protectia proprietatii intelectuale si diseminare in cercetare(0) sala EC101
+orar27  zi2 ora14 Knowledge Engineering and Services Ecosystem(0) sala ED321
+orar27  zi2 ora15 Knowledge Engineering and Services Ecosystem(0) sala ED321
+orar27  zi2 ora16 KESE(1) sala ED321
+orar27  zi3 ora14 MPSIT(1) sala EG305
+orar27  zi3 ora15 MPSIT(1) sala EG305
+orar27  zi3 ora16 Managementul Proiectelor si serviciilor IT(0) sala EG305
+orar27  zi3 ora17 Managementul Proiectelor si serviciilor IT(0) sala EG305
+orar27  zi3 ora18 MPSIT(1) sala EG305
+orar27  zi3 ora18 APPI(2) sala ED112
+orar27  zi3 ora18 MPSIT(1) sala EG305
+orar27  zi3 ora19 MPSIT(1) sala EG305
+orar27  zi3 ora19 APPI(2) sala ED112
+orar27  zi3 ora19 MPSIT(1) sala EG305
+orar27  zi3 ora20 APPI(2) sala ED112
+orar27  zi3 ora20 APPI(2) sala ED112
+orar27  zi3 ora21 APPI(2) sala ED112
+orar27  zi3 ora21 APPI(2) sala ED112
+orar27  zi4 ora16 Proiectarea aplicatiilor J2EE(0) sala EG305
+orar27  zi4 ora17 Proiectarea aplicatiilor J2EE(0) sala EG305
+orar27  zi4 ora18 PAJ2EE(1) sala EG305
+orar27  zi4 ora18 PAJ2EE(1) sala EG305
+orar27  zi4 ora18 PAJ2EE(1) sala EG305
+orar27  zi4 ora19 PAJ2EE(1) sala EG305
+orar27  zi4 ora19 PAJ2EE(1) sala EG305
+orar27  zi4 ora19 PAJ2EE(1) sala EG305
+orar28  zi2 ora18 SCI(3) sala ED120
+orar28  zi2 ora19 SCI(3) sala ED120
+orar28  zi3 ora8 Luarea deciziilor in e-guvernare(0) sala EG206
+orar28  zi3 ora9 Luarea deciziilor in e-guvernare(0) sala EG206
+orar28  zi3 ora10 LD(1) sala EG206
+orar28  zi3 ora11 LD(1) sala EG206
+orar28  zi4 ora18 Politici in sisteme distribuite(0) sala EC002
+orar28  zi4 ora19 Politici in sisteme distribuite(0) sala EC002
+orar28  zi4 ora20 PSD(1) sala EG205
+orar28  zi4 ora21 PSD(1) sala EG205
+orar28  zi5 ora10 Securitatea informatica(0) sala EC102
+orar28  zi5 ora11 Securitatea informatica(0) sala EC102
+orar29  zi2 ora16 MG3DTR(3) sala EG204
+orar29  zi2 ora17 MG3DTR(3) sala EG204
+orar29  zi2 ora18 Dezvoltarea aplicatiilor grafice pentru dispozitive mobile(0) sala EG204
+orar29  zi2 ora19 Dezvoltarea aplicatiilor grafice pentru dispozitive mobile(0) sala EG204
+orar29  zi2 ora20 DSRV(3) sala EG204
+orar29  zi2 ora21 DSRV(3) sala EG204
+orar29  zi4 ora12 Analiza si Extragerea Automata a Continutului Documentelor(0) sala EC102
+orar29  zi4 ora13 Analiza si Extragerea Automata a Continutului Documentelor(0) sala EC102
+orar29  zi5 ora14 AEACD(1) sala EG405
+orar29  zi5 ora15 AEACD(1) sala EG405
+orar29  zi5 ora16 Motoare de grafica 3D in timp real(0) sala EG204
+orar29  zi5 ora17 Motoare de grafica 3D in timp real(0) sala EG204
+orar29  zi5 ora18 Dezvoltarea aplicatiilor grafice pentru dispozitive mobile(0) sala EG204
+orar29  zi5 ora19 Dezvoltarea aplicatiilor grafice pentru dispozitive mobile(0) sala EG204
+orar29  zi5 ora20 DAGDM(1) sala EG204
+orar29  zi5 ora21 DAGDM(1) sala EG204
+orar30  zi1 ora14 Software Verification and Validation(0) sala EC102
+orar30  zi1 ora15 Software Verification and Validation(0) sala EC102
+orar30  zi1 ora16 SVV(1) sala EG404
+orar30  zi1 ora17 SVV(1) sala EG404
+orar30  zi2 ora16 Self-organizing Systems(0) sala EG404
+orar30  zi2 ora17 Self-organizing Systems(0) sala EG404
+orar30  zi2 ora18 SOS(3) sala EG404
+orar30  zi2 ora19 SOS(3) sala EG404
+orar30  zi3 ora16 Neural Networks(0) sala EB215
+orar30  zi3 ora17 Neural Networks(0) sala EB215
+orar30  zi3 ora18 NNT(3) sala EB215
+orar30  zi3 ora18 NNT(3) sala EB215
+orar30  zi3 ora18 NNT(1) sala EB215
+orar30  zi3 ora18 NNT(3) sala EB215
+orar30  zi3 ora18 NNT(1) sala EB215
+orar30  zi3 ora19 NNT(3) sala EB215
+orar30  zi3 ora19 NNT(3) sala EB215
+orar30  zi3 ora19 NNT(1) sala EB215
+orar30  zi3 ora19 NNT(3) sala EB215
+orar30  zi3 ora19 NNT(1) sala EB215
+orar30  zi3 ora20 NNT(1) sala EB215
+orar30  zi3 ora21 NNT(1) sala EB215
+orar31  zi4 ora8 Sisteme de regasire a informatiei(0) sala ED202
+orar31  zi4 ora9 Sisteme de regasire a informatiei(0) sala ED202
+orar31  zi4 ora10 SRI(1) sala ED202
+orar31  zi4 ora11 SRI(1) sala ED202
+orar31  zi5 ora8 SCI(3) sala ED202
+orar31  zi5 ora9 SCI(3) sala ED202
+orar31  zi5 ora10 Securitatea informatica(0) sala EC102
+orar31  zi5 ora11 Securitatea informatica(0) sala EC102
+orar32  zi2 ora16 Managementul Marketingului(0) sala EC002
+orar32  zi2 ora17 Managementul Marketingului(0) sala EC002
+orar32  zi2 ora18 PSA(1) sala AN217
+orar32  zi2 ora18 PSA(1) sala AN217
+orar32  zi2 ora18 PSA(1) sala AN217
+orar32  zi2 ora19 PSA(1) sala AN217
+orar32  zi2 ora19 PSA(1) sala AN217
+orar32  zi2 ora19 PSA(1) sala AN217
+orar32  zi3 ora17 MMK(1) sala BN212
+orar32  zi3 ora17 MMK(1) sala BN212
+orar32  zi3 ora17 MMK(1) sala BN212
+orar32  zi3 ora18 MMK(1) sala BN212
+orar32  zi3 ora18 MMK(1) sala BN212
+orar32  zi3 ora18 MMK(1) sala BN212
+orar32  zi3 ora19 MMK(1) sala BN212
+orar32  zi3 ora19 MMK(1) sala BN212
+orar32  zi3 ora19 MMK(1) sala BN212
+orar32  zi3 ora20 MMK(1) sala BN212
+orar32  zi3 ora20 MMK(1) sala BN212
+orar32  zi3 ora20 MMK(1) sala BN212
+orar32  zi5 ora14 Politici si Strategii(0) sala EC102
+orar32  zi5 ora15 Politici si Strategii(0) sala EC102
+orar32  zi5 ora16 Managementul Proiectelor(0) sala EC102
+orar32  zi5 ora17 Managementul Proiectelor(0) sala EC102
+orar32  zi5 ora18 MPR(1) sala EC102
+orar32  zi5 ora18 MPR(1) sala EC102
+orar32  zi5 ora19 MPR(1) sala EC102
+orar32  zi5 ora19 MPR(1) sala EC102
+orar33  zi2 ora8 Metode Avansate in Sisteme Distribuite(0) sala EC102
+orar33  zi2 ora9 Metode Avansate in Sisteme Distribuite(0) sala EC102
+orar33  zi2 ora10 MASD(1) sala EG405
+orar33  zi2 ora10 MASD(1) sala EG405
+orar33  zi2 ora11 MASD(1) sala EG405
+orar33  zi2 ora11 MASD(1) sala EG405
+orar33  zi3 ora10 SSI(1) sala EG205
+orar33  zi3 ora10 SSI(1) sala EG205
+orar33  zi3 ora11 SSI(1) sala EG205
+orar33  zi3 ora11 SSI(1) sala EG205
+orar33  zi3 ora12 Sisteme de incredere(0) sala EC102
+orar33  zi3 ora13 Sisteme de incredere(0) sala EC102
+orar33  zi5 ora16 Metode Avansate in Securitatea Calculatoarelor si Retelelor(0) sala EC002
+orar33  zi5 ora17 Metode Avansate in Securitatea Calculatoarelor si Retelelor(0) sala EC002
+orar33  zi5 ora18 MASCR(1) sala EG106
+orar33  zi5 ora18 MASCR(1) sala EG106
+orar33  zi5 ora19 MASCR(1) sala EG106
+orar33  zi5 ora19 MASCR(1) sala EG106
+orar33  zi5 ora20 MASCR(1) sala EG106
+orar33  zi5 ora21 MASCR(1) sala EG106
+orar34  zi1 ora16 Auditarea securitatii retelelor(0) sala EC002
+orar34  zi1 ora17 Auditarea securitatii retelelor(0) sala EC002
+orar34  zi1 ora18 ASR(1) sala EG106
+orar34  zi1 ora18 ASR(1) sala EG106
+orar34  zi1 ora19 ASR(1) sala EG106
+orar34  zi1 ora19 ASR(1) sala EG106
+orar34  zi1 ora20 ASR(1) sala ED202
+orar34  zi1 ora21 ASR(1) sala ED202
+orar34  zi3 ora14 SPD(1) sala ED218
+orar34  zi3 ora14 SPD(1) sala ED218
+orar34  zi3 ora15 SPD(1) sala ED218
+orar34  zi3 ora15 SPD(1) sala ED218
+orar34  zi3 ora16 Sisteme paralele si distribuite(0) sala ED202
+orar34  zi3 ora17 Sisteme paralele si distribuite(0) sala ED202
+orar34  zi3 ora18 SPD(1) sala ED218
+orar34  zi3 ora19 SPD(1) sala ED218
+orar35  zi2 ora16 SCI(3) sala ED120
+orar35  zi2 ora17 SCI(3) sala ED120
+orar35  zi3 ora16 Managementul Proiectelor si serviciilor IT(0) sala EG205
+orar35  zi3 ora17 Managementul Proiectelor si serviciilor IT(0) sala EG205
+orar35  zi3 ora18 MPSIT(1) sala EG205
+orar35  zi3 ora18 MPSIT(1) sala EG205
+orar35  zi3 ora18 MPSIT(1) sala EG205
+orar35  zi3 ora19 MPSIT(1) sala EG205
+orar35  zi3 ora19 MPSIT(1) sala EG205
+orar35  zi3 ora19 MPSIT(1) sala EG205
+orar35  zi4 ora13 Business Service Integration and Management(0) sala ED321
+orar35  zi4 ora14 Business Service Integration and Management(0) sala ED321
+orar35  zi4 ora15 Business Service Integration and Management(0) sala ED321
+orar35  zi4 ora16 Business Service Integration and Management(0) sala ED321
+orar35  zi4 ora18 Politici in sisteme distribuite(0) sala EC002
+orar35  zi4 ora19 Politici in sisteme distribuite(0) sala EC002
+orar35  zi4 ora20 PSD(1) sala EG205
+orar35  zi4 ora21 PSD(1) sala EG205
+orar35  zi5 ora10 Securitatea informatica(0) sala EC102
+orar35  zi5 ora11 Securitatea informatica(0) sala EC102

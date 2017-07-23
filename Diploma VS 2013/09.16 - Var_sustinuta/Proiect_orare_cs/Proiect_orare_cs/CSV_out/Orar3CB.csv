@@ -1,0 +1,77 @@
+	 ###ORAR 3CB ####
+	 Semestrul I    Anul universitar 2014 – 2015
+Facultatea: AUTOMATICA SI CALCULATOARE
+Specializarea: CALCULATOARE
+ZIUA,ORA,331CB,,332CB,,333CB,,334CB,
+,,Disciplina si sala,,Disciplina si sala,,Disciplina si sala,,Disciplina si sala,
+LUNI,08-09,,,CN(1) - ED220{1},,,,,,
+,09-10,,,CN(1) - ED220{1},,,,,,
+,10-11,,,,,CN(1) - ED220{1},,,,
+,11-12,,,,,CN(1) - ED220{1},,,,
+,12-13,,,RL(1) - EG207{1},,EGC(1) - EG304,,,,
+,13-14,,,RL(1) - EG207{1},,EGC(1) - EG304,,,,
+,14-15,"ALGORITMI PARALELI SI DISTRIBUITI (c), Prof. V. CRISTEA (EC101)"
+,15-16,"ALGORITMI PARALELI SI DISTRIBUITI (c), Prof. V. CRISTEA (EC101)"
+,16-17,"ALGORITMI PARALELI SI DISTRIBUITI (c), Prof. V. CRISTEA (EC101)"
+,17-18,"CALCULATOARE NUMERICE II (c), Conf. D. POPESCU (EC101)"
+,18-19,"CALCULATOARE NUMERICE II (c), Conf. D. POPESCU (EC101)"
+,19-20,"CALCULATOARE NUMERICE II (c), Conf. D. POPESCU (EC101)"
+,20-21,
+,21-22,
+MARTI,08-09,,,,,LFA(2) - AN213,,,,
+,09-10,,,,,LFA(2) - AN213,,,,
+,10-11,CN(1) - EG206{1},,EG(2) - BN217[2],,EG(2) - BN217[1],,,,
+,11-12,CN(1) - EG206{1},,EG(2) - BN217[2],,EG(2) - BN217[1],,,,
+,12-13,EG(2) - BN217[1],"ECONOMIE GENERALA (c), Conf. Corina DUMITRESCU (EC102)[2]",,,CN(1) - ED220{1},CN(1) - EG206{2},,,
+,13-14,EG(2) - BN217[1],"ECONOMIE GENERALA (c), Conf. Corina DUMITRESCU (EC102)[2]",,,CN(1) - ED220{1},CN(1) - EG206{2},,,
+,14-15,"LIMBAJE FORMALE SI AUTOMATE (c), Conf. Lorina NEGREANU (EC105)"
+,15-16,"LIMBAJE FORMALE SI AUTOMATE (c), Conf. Lorina NEGREANU (EC105)"
+,16-17,"LIMBAJE FORMALE SI AUTOMATE (c), Conf. Lorina NEGREANU (EC105)"
+,17-18,"RETELE LOCALE (c), Conf. R. RUGHINIS (EC004)"
+,18-19,"RETELE LOCALE (c), Conf. R. RUGHINIS (EC004)"
+,19-20,"RETELE LOCALE (c), Conf. R. RUGHINIS (EC004)"
+,20-21,
+,21-22,
+MIERCURI,08-09,"ELEMENTE DE GRAFICA PE CALCULATOR (c), s.l. Irina MOCANU (EC004)"
+,09-10,"ELEMENTE DE GRAFICA PE CALCULATOR (c), s.l. Irina MOCANU (EC004)"
+,10-11,"ELEMENTE DE GRAFICA PE CALCULATOR (c), s.l. Irina MOCANU (EC004)"
+,11-12,
+,12-13,EGC(1) - EG304,,,RL(1) - EG207{2},,,,,
+,13-14,EGC(1) - EG304,,,RL(1) - EG207{2},,,,,
+,14-15,APD(1) - ED120{1},RL(1) - EG207{2},EGC(1) - EG304,,,,EG(2) - BN217[1],,
+,15-16,APD(1) - ED120{1},RL(1) - EG207{2},EGC(1) - EG304,,,,EG(2) - BN217[1],,
+,16-17,,,APD(1) - ED120{1},,,,RL(1) - EG207{1},,
+,17-18,,,APD(1) - ED120{1},,,,RL(1) - EG207{1},,
+,18-19,RL(1) - EG207{1},,,,,,APD(1) - ED120{1},,
+,19-20,RL(1) - EG207{1},,,,,,APD(1) - ED120{1},,
+,20-21,
+,21-22,
+JOI,08-09,,,LFA(2) - AN205,,,,,,
+,09-10,,,LFA(2) - AN205,,,,,,
+,10-11,,,,CN(1) - EG206{2},,,,,
+,11-12,,,,CN(1) - EG206{2},,,,,
+,12-13,,,,APD(1) - ED120{2},,,,CN(1) - EG206{2},
+,13-14,,,,APD(1) - ED120{2},,,,CN(1) - EG206{2},
+,14-15,,,,,,,,RL(1) - EG207{2},
+,15-16,,,,,,,,RL(1) - EG207{2},
+,16-17,,,,,,,LFA(2) - AN205,,
+,17-18,,,,,,,LFA(2) - AN205,,
+,18-19,LFA(2) - AN205,,,,,,,,
+,19-20,LFA(2) - AN205,,,,,,,,
+,20-21,
+,21-22,
+VINERI,08-09,
+,09-10,
+,10-11,,,,,,CN(1) - EG206{2},,,
+,11-12,,,,,,CN(1) - EG206{2},,,
+,12-13,,,,,RL(1) - EG207{1},APD(1) - ED120{2},,,
+,13-14,,,,,RL(1) - EG207{1},APD(1) - ED120{2},,,
+,14-15,,,,,APD(1) - ED120{1},RL(1) - EG207{2},CN(1) - EG206{1},,
+,15-16,,,,,APD(1) - ED120{1},RL(1) - EG207{2},CN(1) - EG206{1},,
+,16-17,,CN(1) - EG206{2},,,,,,APD(1) - ED120{2},
+,17-18,,CN(1) - EG206{2},,,,,,APD(1) - ED120{2},
+,18-19,,APD(1) - ED120{2},,,,,EGC(1) - EG304,,
+,19-20,,APD(1) - ED120{2},,,,,EGC(1) - EG304,,
+,20-21,
+,21-22,
+E

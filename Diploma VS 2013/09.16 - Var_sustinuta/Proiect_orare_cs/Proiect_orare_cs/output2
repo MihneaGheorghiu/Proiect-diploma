@@ -1,0 +1,297 @@
+deschid CSV/Orar1CA.csv 
+deschid CSV/Orar1CB.csv 
+deschid CSV/Orar1CC.csv 
+deschid CSV/Orar2CA.csv 
+deschid CSV/Orar2CB.csv 
+deschid CSV/Orar2CC.csv 
+deschid CSV/Orar3CA.csv 
+deschid CSV/Orar3CB.csv 
+deschid CSV/Orar3CC.csv 
+deschid CSV/Orar4C1.csv 
+deschid CSV/Orar4C2.csv 
+deschid CSV/Orar4C3.csv 
+deschid CSV/Orar4C4.csv 
+deschid CSV/Orar4C5.csv 
+deschid CSV/Orar5CM-AAC.csv 
+deschid CSV/Orar5CM-ABD.csv 
+deschid CSV/Orar5CM-e-GOV.csv 
+deschid CSV/Orar5CM-G1.csv 
+deschid CSV/Orar5CM-GMRV.csv 
+deschid CSV/Orar5CM-IA-en.csv 
+deschid CSV/Orar5CM-ISI.csv 
+deschid CSV/Orar5CM-MTI.csv 
+deschid CSV/Orar5CM-SCPD-en.csv 
+deschid CSV/Orar5CM-SRIC.csv 
+deschid CSV/Orar5CM-SSA.csv 
+deschid CSV/Orar6CM-AAC.csv 
+deschid CSV/Orar6CM-ABD.csv 
+deschid CSV/Orar6CM-E-GOV.csv 
+deschid CSV/Orar6CM-GMRV.csv 
+deschid CSV/Orar6CM-IA-en.csv 
+deschid CSV/Orar6CM-ISI.csv 
+deschid CSV/Orar6CM-MTI.csv 
+deschid CSV/Orar6CM-SCPD-en.csv 
+deschid CSV/Orar6CM-SRIC.csv 
+deschid CSV/Orar6CM-SSA.csv 
+suma_nr_grupe_l = 122
+orar 14 grupa 1 costul pe impara 0 
+orar 14 grupa 1 costul pe para 0 
+orar 14 grupa 2 costul pe impara 0 
+orar 14 grupa 2 costul pe para 0 
+orar 14 grupa 3 costul pe impara 0 
+orar 14 grupa 3 costul pe para 0 
+orar 15 grupa 1 costul pe impara 0 
+orar 15 grupa 1 costul pe para 2 
+orar 15 grupa 2 costul pe impara 2 
+orar 15 grupa 2 costul pe para 0 
+orar 15 grupa 3 costul pe impara 0 
+orar 15 grupa 3 costul pe para 2 
+orar 16 grupa 1 costul pe impara 2 
+orar 16 grupa 1 costul pe para 4 
+orar 16 grupa 2 costul pe impara 4 
+orar 16 grupa 2 costul pe para 2 
+orar 16 grupa 3 costul pe impara 2 
+orar 16 grupa 3 costul pe para 4 
+orar 17 grupa 1 costul pe impara 0 
+orar 17 grupa 1 costul pe para 0 
+orar 17 grupa 2 costul pe impara 0 
+orar 17 grupa 2 costul pe para 0 
+orar 17 grupa 3 costul pe impara 2 
+orar 17 grupa 3 costul pe para 2 
+orar 17 grupa 4 costul pe impara 2 
+orar 17 grupa 4 costul pe para 2 
+orar 18 grupa 1 costul pe impara 6 
+orar 18 grupa 1 costul pe para 6 
+orar 18 grupa 2 costul pe impara 6 
+orar 18 grupa 2 costul pe para 6 
+orar 18 grupa 3 costul pe impara 4 
+orar 18 grupa 3 costul pe para 4 
+orar 19 grupa 1 costul pe impara 0 
+orar 19 grupa 1 costul pe para 0 
+orar 19 grupa 2 costul pe impara 0 
+orar 19 grupa 2 costul pe para 0 
+orar 19 grupa 3 costul pe impara 0 
+orar 19 grupa 3 costul pe para 0 
+orar 20 grupa 1 costul pe impara 0 
+orar 20 grupa 1 costul pe para 0 
+orar 20 grupa 2 costul pe impara 0 
+orar 20 grupa 2 costul pe para 0 
+orar 20 grupa 3 costul pe impara 0 
+orar 20 grupa 3 costul pe para 0 
+orar 21 grupa 1 costul pe impara 0 
+orar 21 grupa 1 costul pe para 0 
+orar 21 grupa 2 costul pe impara 2 
+orar 21 grupa 2 costul pe para 2 
+orar 21 grupa 3 costul pe impara 0 
+orar 21 grupa 3 costul pe para 0 
+orar 22 grupa 1 costul pe impara 4 
+orar 22 grupa 1 costul pe para 4 
+orar 22 grupa 2 costul pe impara 4 
+orar 22 grupa 2 costul pe para 4 
+orar 22 grupa 3 costul pe impara 4 
+orar 22 grupa 3 costul pe para 4 
+orar 23 grupa 1 costul pe impara 0 
+orar 23 grupa 1 costul pe para 0 
+orar 23 grupa 2 costul pe impara 2 
+orar 23 grupa 2 costul pe para 2 
+orar 23 grupa 3 costul pe impara 0 
+orar 23 grupa 3 costul pe para 0 
+orar 24 grupa 1 costul pe impara 0 
+orar 24 grupa 1 costul pe para 0 
+orar 24 grupa 2 costul pe impara 0 
+orar 24 grupa 2 costul pe para 0 
+orar 24 grupa 3 costul pe impara 0 
+orar 24 grupa 3 costul pe para 0 
+orar 25 grupa 1 costul pe impara 0 
+orar 25 grupa 1 costul pe para 0 
+orar 25 grupa 2 costul pe impara 0 
+orar 25 grupa 2 costul pe para 0 
+orar 25 grupa 3 costul pe impara 0 
+orar 25 grupa 3 costul pe para 0 
+orar 26 grupa 1 costul pe impara 0 
+orar 26 grupa 1 costul pe para 0 
+orar 26 grupa 2 costul pe impara 0 
+orar 26 grupa 2 costul pe para 0 
+orar 26 grupa 3 costul pe impara 0 
+orar 26 grupa 3 costul pe para 0 
+orar 27 grupa 1 costul pe impara 0 
+orar 27 grupa 1 costul pe para 0 
+orar 27 grupa 2 costul pe impara 0 
+orar 27 grupa 2 costul pe para 0 
+orar 27 grupa 3 costul pe impara 0 
+orar 27 grupa 3 costul pe para 0 
+orar 28 grupa 1 costul pe impara 0 
+orar 28 grupa 1 costul pe para 0 
+orar 28 grupa 2 costul pe impara 0 
+orar 28 grupa 2 costul pe para 0 
+orar 28 grupa 3 costul pe impara 0 
+orar 28 grupa 3 costul pe para 0 
+orar 29 grupa 1 costul pe impara 0 
+orar 29 grupa 1 costul pe para 2 
+orar 29 grupa 2 costul pe impara 0 
+orar 29 grupa 2 costul pe para 0 
+orar 29 grupa 3 costul pe impara 0 
+orar 29 grupa 3 costul pe para 0 
+orar 30 grupa 1 costul pe impara 0 
+orar 30 grupa 1 costul pe para 0 
+orar 30 grupa 2 costul pe impara 0 
+orar 30 grupa 2 costul pe para 0 
+orar 30 grupa 3 costul pe impara 0 
+orar 30 grupa 3 costul pe para 0 
+orar 31 grupa 1 costul pe impara 0 
+orar 31 grupa 1 costul pe para 0 
+orar 31 grupa 2 costul pe impara 0 
+orar 31 grupa 2 costul pe para 0 
+orar 31 grupa 3 costul pe impara 0 
+orar 31 grupa 3 costul pe para 0 
+orar 32 grupa 1 costul pe impara 0 
+orar 32 grupa 1 costul pe para 0 
+orar 32 grupa 2 costul pe impara 2 
+orar 32 grupa 2 costul pe para 2 
+orar 32 grupa 3 costul pe impara 0 
+orar 32 grupa 3 costul pe para 0 
+orar 33 grupa 1 costul pe impara 0 
+orar 33 grupa 1 costul pe para 0 
+orar 33 grupa 2 costul pe impara 2 
+orar 33 grupa 2 costul pe para 2 
+orar 33 grupa 3 costul pe impara 0 
+orar 33 grupa 3 costul pe para 0 
+orar 34 grupa 1 costul pe impara 1 
+orar 34 grupa 1 costul pe para 0 
+orar 34 grupa 2 costul pe impara 1 
+orar 34 grupa 2 costul pe para 0 
+orar 34 grupa 3 costul pe impara 1 
+orar 34 grupa 3 costul pe para 0 
+costul total initial(semigrupe) este 1162
+costul total optim(semigrupe) este 938
+costul total initial(grupe) este 481
+costul total optim(grupe) este 367
+orar 14 grupa 1 costul pe impara 0 
+orar 14 grupa 1 costul pe para 0 
+orar 14 grupa 2 costul pe impara 0 
+orar 14 grupa 2 costul pe para 0 
+orar 14 grupa 3 costul pe impara 0 
+orar 14 grupa 3 costul pe para 0 
+orar 15 grupa 1 costul pe impara 0 
+orar 15 grupa 1 costul pe para 2 
+orar 15 grupa 2 costul pe impara 2 
+orar 15 grupa 2 costul pe para 0 
+orar 15 grupa 3 costul pe impara 0 
+orar 15 grupa 3 costul pe para 2 
+orar 16 grupa 1 costul pe impara 2 
+orar 16 grupa 1 costul pe para 4 
+orar 16 grupa 2 costul pe impara 4 
+orar 16 grupa 2 costul pe para 2 
+orar 16 grupa 3 costul pe impara 2 
+orar 16 grupa 3 costul pe para 4 
+orar 17 grupa 1 costul pe impara 0 
+orar 17 grupa 1 costul pe para 0 
+orar 17 grupa 2 costul pe impara 0 
+orar 17 grupa 2 costul pe para 0 
+orar 17 grupa 3 costul pe impara 2 
+orar 17 grupa 3 costul pe para 2 
+orar 17 grupa 4 costul pe impara 2 
+orar 17 grupa 4 costul pe para 2 
+orar 18 grupa 1 costul pe impara 6 
+orar 18 grupa 1 costul pe para 6 
+orar 18 grupa 2 costul pe impara 6 
+orar 18 grupa 2 costul pe para 6 
+orar 18 grupa 3 costul pe impara 4 
+orar 18 grupa 3 costul pe para 4 
+orar 19 grupa 1 costul pe impara 0 
+orar 19 grupa 1 costul pe para 0 
+orar 19 grupa 2 costul pe impara 0 
+orar 19 grupa 2 costul pe para 0 
+orar 19 grupa 3 costul pe impara 0 
+orar 19 grupa 3 costul pe para 0 
+orar 20 grupa 1 costul pe impara 0 
+orar 20 grupa 1 costul pe para 0 
+orar 20 grupa 2 costul pe impara 0 
+orar 20 grupa 2 costul pe para 0 
+orar 20 grupa 3 costul pe impara 0 
+orar 20 grupa 3 costul pe para 0 
+orar 21 grupa 1 costul pe impara 0 
+orar 21 grupa 1 costul pe para 0 
+orar 21 grupa 2 costul pe impara 2 
+orar 21 grupa 2 costul pe para 2 
+orar 21 grupa 3 costul pe impara 0 
+orar 21 grupa 3 costul pe para 0 
+orar 22 grupa 1 costul pe impara 4 
+orar 22 grupa 1 costul pe para 4 
+orar 22 grupa 2 costul pe impara 4 
+orar 22 grupa 2 costul pe para 4 
+orar 22 grupa 3 costul pe impara 4 
+orar 22 grupa 3 costul pe para 4 
+orar 23 grupa 1 costul pe impara 0 
+orar 23 grupa 1 costul pe para 0 
+orar 23 grupa 2 costul pe impara 2 
+orar 23 grupa 2 costul pe para 2 
+orar 23 grupa 3 costul pe impara 0 
+orar 23 grupa 3 costul pe para 0 
+orar 24 grupa 1 costul pe impara 0 
+orar 24 grupa 1 costul pe para 0 
+orar 24 grupa 2 costul pe impara 0 
+orar 24 grupa 2 costul pe para 0 
+orar 24 grupa 3 costul pe impara 0 
+orar 24 grupa 3 costul pe para 0 
+orar 25 grupa 1 costul pe impara 0 
+orar 25 grupa 1 costul pe para 0 
+orar 25 grupa 2 costul pe impara 0 
+orar 25 grupa 2 costul pe para 0 
+orar 25 grupa 3 costul pe impara 0 
+orar 25 grupa 3 costul pe para 0 
+orar 26 grupa 1 costul pe impara 0 
+orar 26 grupa 1 costul pe para 0 
+orar 26 grupa 2 costul pe impara 0 
+orar 26 grupa 2 costul pe para 0 
+orar 26 grupa 3 costul pe impara 0 
+orar 26 grupa 3 costul pe para 0 
+orar 27 grupa 1 costul pe impara 0 
+orar 27 grupa 1 costul pe para 0 
+orar 27 grupa 2 costul pe impara 0 
+orar 27 grupa 2 costul pe para 0 
+orar 27 grupa 3 costul pe impara 0 
+orar 27 grupa 3 costul pe para 0 
+orar 28 grupa 1 costul pe impara 0 
+orar 28 grupa 1 costul pe para 0 
+orar 28 grupa 2 costul pe impara 0 
+orar 28 grupa 2 costul pe para 0 
+orar 28 grupa 3 costul pe impara 0 
+orar 28 grupa 3 costul pe para 0 
+orar 29 grupa 1 costul pe impara 0 
+orar 29 grupa 1 costul pe para 2 
+orar 29 grupa 2 costul pe impara 0 
+orar 29 grupa 2 costul pe para 0 
+orar 29 grupa 3 costul pe impara 0 
+orar 29 grupa 3 costul pe para 0 
+orar 30 grupa 1 costul pe impara 0 
+orar 30 grupa 1 costul pe para 0 
+orar 30 grupa 2 costul pe impara 0 
+orar 30 grupa 2 costul pe para 0 
+orar 30 grupa 3 costul pe impara 0 
+orar 30 grupa 3 costul pe para 0 
+orar 31 grupa 1 costul pe impara 0 
+orar 31 grupa 1 costul pe para 0 
+orar 31 grupa 2 costul pe impara 0 
+orar 31 grupa 2 costul pe para 0 
+orar 31 grupa 3 costul pe impara 0 
+orar 31 grupa 3 costul pe para 0 
+orar 32 grupa 1 costul pe impara 0 
+orar 32 grupa 1 costul pe para 0 
+orar 32 grupa 2 costul pe impara 2 
+orar 32 grupa 2 costul pe para 2 
+orar 32 grupa 3 costul pe impara 0 
+orar 32 grupa 3 costul pe para 0 
+orar 33 grupa 1 costul pe impara 0 
+orar 33 grupa 1 costul pe para 0 
+orar 33 grupa 2 costul pe impara 2 
+orar 33 grupa 2 costul pe para 2 
+orar 33 grupa 3 costul pe impara 0 
+orar 33 grupa 3 costul pe para 0 
+orar 34 grupa 1 costul pe impara 1 
+orar 34 grupa 1 costul pe para 0 
+orar 34 grupa 2 costul pe impara 1 
+orar 34 grupa 2 costul pe para 0 
+orar 34 grupa 3 costul pe impara 1 
+orar 34 grupa 3 costul pe para 0 
+timp total de lucru 4.640000 secunde

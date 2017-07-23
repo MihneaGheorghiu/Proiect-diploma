@@ -1,0 +1,77 @@
+	 ###ORAR 1CC ####
+	 Semestrul I    Anul universitar 2014 – 2015
+Facultatea: AUTOMATICA SI CALCULATOARE
+Specializarea: CALCULATOARE
+ZIUA,ORA,311CC,,312CC,,313CC,,314CC,,315CC,,316CC,
+,,Disciplina si sala,,Disciplina si sala,,Disciplina si sala,,Disciplina si sala,,Disciplina si sala,,Disciplina si sala,
+LUNI,08-09,,PL(1) - EG311{2},,,,,II(1) - EG305[1],,,,PL(1) - EG302{1},,
+,09-10,,PL(1) - EG311{2},,,,,II(1) - EG305[1],,,,PL(1) - EG302{1},,
+,10-11,II(1) - EG305[1]#IF(2) - AN213[2],,Engleza(2) - BN319[1],,II(1) - EG305[2],,PL(1) - EG311{1},PL(1) - EG302{2},,,Mat1(2) - AN205,,
+,11-12,II(1) - EG305[1]#IF(2) - AN213[2],,Engleza(2) - BN319[1],,II(1) - EG305[2],,PL(1) - EG311{1},PL(1) - EG302{2},,,Mat1(2) - AN205,,
+,12-13,PL(1) - EG311{1},"INTRODUCERE IN INFORMATICA (c), Prof. F. IACOB (EC105)",IF(2) - BN314[2]{1},,,IF(2) - BN314[2]{2},USO(1) - EG306{1},,,,,PL(1) - EG302{2},
+,13-14,PL(1) - EG311{1},"INTRODUCERE IN INFORMATICA (c), Prof. F. IACOB (EC105)",IF(2) - BN314[2]{1}#Mat1(2) - AN205,,,IF(2) - BN314[2]{2},USO(1) - EG306{1},,,,,PL(1) - EG302{2},
+,14-15,USO(1) - EG106{1},USO(1) - EG306{2},Mat1(2) - AN205,IF(2) - BN314[2]{2},IF(2) - BN314[2]{1},,IF(2) - BN219[2],,,PL(1) - EG302{2},Franceza(2) - AN217[1],,
+,15-16,USO(1) - EG106{1},USO(1) - EG306{2},,IF(2) - BN314[2]{2},IF(2) - BN314[2]{1},,IF(2) - BN219[2],,,PL(1) - EG302{2},Franceza(2) - AN217[1],,
+,16-17,"UTILIZAREA SISTEMELOR DE OPERARE (c), Conf. R. RUGHINIS (EC105)"
+,17-18,"UTILIZAREA SISTEMELOR DE OPERARE (c), Conf. R. RUGHINIS (EC105)"
+,18-19,
+,19-20,
+,20-21,
+,21-22,
+MARTI,08-09,,,USO(1) - EG306{1},,,,,,PL(1) - EG311{1},,Progr(1) - EG105,,
+,09-10,,,USO(1) - EG306{1},,,,,,PL(1) - EG311{1},,Progr(1) - EG105,,
+,10-11,,,PL(1) - EG311{1},,Progr(1) - EG105,,,,Mat2(2) - AN205,,USO(1) - EG306{1},,
+,11-12,,,PL(1) - EG311{1},,Progr(1) - EG105,,,,Mat2(2) - AN205,,USO(1) - EG306{1},,
+,12-13,,,,USO(1) - EG306{2},PL(1) - EG311{1},PL(1) - EG302{2},,,Progr(1) - EG105,,Mat2(2) - AN205,,
+,13-14,,,,USO(1) - EG306{2},PL(1) - EG311{1},PL(1) - EG302{2},,,Progr(1) - EG105,,Mat2(2) - AN205,,
+,14-15,,,Progr(1) - EG105,,Mat2(2) - AN205,,,,,,,USO(1) - EG306{2},
+,15-16,,,Progr(1) - EG105,,Mat2(2) - AN205,,,,,,,USO(1) - EG306{2},
+,16-17,,,Mat2(2) - AN205,,,,,,,USO(1) - EG306{2},,,
+,17-18,,,Mat2(2) - AN205,,,,,,,USO(1) - EG306{2},,,
+,18-19,,,,,,USO(1) - EG306{2},,,,,,,
+,19-20,,,,,,USO(1) - EG306{2},,,,,,,
+,20-21,
+,21-22,
+MIERCURI,08-09,
+,09-10,"MATEMATICA 1 (c), Prof. M. OLTEANU (A02Leu)"
+,10-11,"MATEMATICA 1 (c), Prof. M. OLTEANU (A02Leu)"
+,11-12,"MATEMATICA 1 (c), Prof. M. OLTEANU (A02Leu)"
+,12-13,"MATEMATICA 2 (c), S.l. A. BALAN (A02Leu)"
+,13-14,"MATEMATICA 2 (c), S.l. A. BALAN (A02Leu)"
+,14-15,"MATEMATICA 2 (c), S.l. A. BALAN (A02Leu)"
+,15-16,
+,16-17,Mat1(2) - AN210,,,,,,Mat2(2) - AN205,,Mat1(2) - BN319,,,,
+,17-18,Mat1(2) - AN210,,,,,,Mat2(2) - AN205,,Mat1(2) - BN319,,,,
+,18-19,Mat2(2) - AN205,,,,,,Mat1(2) - AN210,,USO(1) - EG306{1},,,,
+,19-20,Mat2(2) - AN205,,,,,,Mat1(2) - AN210,,USO(1) - EG306{1},,,,
+,20-21,
+,21-22,
+JOI,08-09,"PROIECTARE LOGICA (c), Prof. S. PETRESCU (EC105)"
+,09-10,"PROIECTARE LOGICA (c), Prof. S. PETRESCU (EC105)"
+,10-11,"PROIECTARE LOGICA (c), Prof. S. PETRESCU (EC105)"
+,11-12,
+,12-13,Progr(1) - EG105,,II(1) - EG305[2],,Engleza(2) - BN319[2]#Mat1(2) - AN205,,,USO(1) - EG106{2},II(1) - EG305[1],,,II(1) - EG305[2]{2},
+,13-14,Progr(1) - EG105,,II(1) - EG305[2],,Engleza(2) - BN319[2]#Mat1(2) - AN205,,,USO(1) - EG106{2},II(1) - EG305[1],,,II(1) - EG305[2]{2},
+,14-15,Engleza(2) - BN319[2],,,PL(1) - EG302{2},,,Progr(1) - EG105,,Engleza(2) - AN217[2],,,,
+,15-16,Engleza(2) - BN319[2],,,PL(1) - EG302{2},,,Progr(1) - EG105,,Engleza(2) - AN217[2],,,,
+,16-17,"GRAFICA INGINEREASCA (c), Prof S. Aldea (AN030)[1]"#"MECANICA (c), Conf. M. Craifaleanu (AN030)[2]"
+,17-18,"GRAFICA INGINEREASCA (c), Prof S. Aldea (AN030)[1]"#"MECANICA (c), Conf. M. Craifaleanu (AN030)[2]"
+,18-19,"PSIHOLOGIA EDUCATIEI (c), Lect. Ana Voichita TEBEANU (A02Leu)"
+,19-20,"PSIHOLOGIA EDUCATIEI (c), Lect. Ana Voichita TEBEANU (A02Leu)"
+,20-21,
+,21-22,
+VINERI,08-09,
+,09-10,
+,10-11,,,,,USO(1) - EG306{1},,Engleza(2) - AN217[1],,,,,,
+,11-12,,,,,USO(1) - EG306{1},,Engleza(2) - AN217[1],,,,,,
+,12-13,"PROGRAMAREA CALCULATOARELOR (c), S.l. Carmen ODUBASTEANU (AN030)"
+,13-14,"PROGRAMAREA CALCULATOARELOR (c), S.l. Carmen ODUBASTEANU (AN030)"
+,14-15,"ISTORIA FILOZOFIEI (c), Conf. V. Cernica (A02Leu)[2]",,,,,,,,,,Germana(2) - BN319[1],,
+,15-16,"ISTORIA FILOZOFIEI (c), Conf. V. Cernica (A02Leu)[2]",,,,,,,,,,Germana(2) - BN319[1],,
+,16-17,,,,,,,,,IF(2) - BN319[2],,IF(2) - BN319[1],,
+,17-18,,,,,,,,,IF(2) - BN319[2],,IF(2) - BN319[1],,
+,18-19,
+,19-20,
+,20-21,
+,21-22,
+E

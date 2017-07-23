@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Struct Name="gr" Collapsed="true">
+    <Position X="5.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAEAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="lgr" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="oc" Collapsed="true">
+    <Position X="0.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAKIAAAAAAAACBAAEAAACAAAAAAAgAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="oc1" Collapsed="true">
+    <Position X="11" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgAAQAAAAAAAIAAAAAAAACBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="oc2" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAQAAAAAAAAAAAAAAAACBAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="oc4" Collapsed="true">
+    <Position X="8" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAQAAAAAAAIAAAEAAAACBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="nodt" Collapsed="true">
+    <Position X="3" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAEAAAAAAAAAAABAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="li" Collapsed="true">
+    <Position X="8.25" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ns" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAEAAAAAAAAAAABAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="lns" Collapsed="true">
+    <Position X="3" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="disc" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAIAAAAEQAAACBAAEEACAAABAAAAAFAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ld" Collapsed="true">
+    <Position X="0.75" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="n_r" Collapsed="true">
+    <Position X="6" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="cst" Collapsed="true">
+    <Position X="10.5" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="val_z" Collapsed="true">
+    <Position X="10.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="ggol" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAIAAAQAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="nod_grupa" Collapsed="true">
+    <Position X="8.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pnod_grupa" Collapsed="true">
+    <Position X="5.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="lista_grupe" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pocupare" Collapsed="true">
+    <Position X="0.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ocupare" Collapsed="true">
+    <Position X="3.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ORAR" Collapsed="true">
+    <Position X="3.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="oc_profesor" Collapsed="true">
+    <Position X="10.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ORAR_PF" Collapsed="true">
+    <Position X="10.5" Y="15" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="oc_lab" Collapsed="true">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ORAR_LAB" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="oc_curs" Collapsed="true">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ORAR_CURS" Collapsed="true">
+    <Position X="5" Y="8.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="nod_titulari" Collapsed="true">
+    <Position X="0.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pnod_titulari" Collapsed="true">
+    <Position X="3" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="lista_titulari" Collapsed="true">
+    <Position X="8.25" Y="19.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="nod_sali" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+    <AliasOfLine Type="ns" FixedFromPoint="true">
+      <Path>
+        <Point X="3" Y="2.312" />
+        <Point X="3" Y="2.51" />
+        <Point X="3.5" Y="2.51" />
+        <Point X="3.5" Y="2.75" />
+      </Path>
+    </AliasOfLine>
+  </Typedef>
+  <Typedef Name="pnod_sali" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="lista_sali" Collapsed="true">
+    <Position X="3" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="nod_disciplina" Collapsed="true">
+    <Position X="0.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="pnod_disciplina" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="lista_discipline" Collapsed="true">
+    <Position X="0.75" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="numar_grupe" Collapsed="true">
+    <Position X="6" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="COST" Collapsed="true">
+    <Position X="10.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="val_ore" Collapsed="true">
+    <Position X="10.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="GOL" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>header1.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

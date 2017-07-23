@@ -1,0 +1,88 @@
+deschid CSV/Orar1CA.csv 
+deschid CSV/Orar1CB.csv 
+deschid CSV/Orar1CC.csv 
+deschid CSV/Orar2CA.csv 
+deschid CSV/Orar2CB.csv 
+deschid CSV/Orar2CC.csv 
+deschid CSV/Orar3CA.csv 
+deschid CSV/Orar3CB.csv 
+deschid CSV/Orar3CC.csv 
+deschid CSV/Orar4C1.csv 
+deschid CSV/Orar4C2.csv 
+deschid CSV/Orar4C3.csv 
+deschid CSV/Orar4C4.csv 
+deschid CSV/Orar4C5.csv 
+deschid CSV/Orar5CM-AAC.csv 
+deschid CSV/Orar5CM-ABD.csv 
+deschid CSV/Orar5CM-e-GOV.csv 
+deschid CSV/Orar5CM-G1.csv 
+deschid CSV/Orar5CM-GMRV.csv 
+deschid CSV/Orar5CM-IA-en.csv 
+deschid CSV/Orar5CM-ISI.csv 
+deschid CSV/Orar5CM-MTI.csv 
+deschid CSV/Orar5CM-SCPD-en.csv 
+deschid CSV/Orar5CM-SRIC.csv 
+deschid CSV/Orar5CM-SSA.csv 
+deschid CSV/Orar6CM-AAC.csv 
+deschid CSV/Orar6CM-ABD.csv 
+deschid CSV/Orar6CM-E-GOV.csv 
+deschid CSV/Orar6CM-GMRV.csv 
+deschid CSV/Orar6CM-IA-en.csv 
+deschid CSV/Orar6CM-ISI.csv 
+deschid CSV/Orar6CM-MTI.csv 
+deschid CSV/Orar6CM-SCPD-en.csv 
+deschid CSV/Orar6CM-SRIC.csv 
+deschid CSV/Orar6CM-SSA.csv 
+timp de lucru citire date intrare 0.031000 secunde
+
+PRIMA ETAPA DE OPTIMIZARE #1 _semigrupe
+costul total initial(semigrupe) este 1162
+costul total optim(semigrupe) este 919
+timp de lucru cu etapa 1 2.984000 secunde
+
+ETAPA DE OPTIMIZARE #2 _grupe licenta 
+costul total initial(grupe) este 483
+costul total optim(grupe) este 363
+timp de lucru cu a 2a etapa 6.156000 secunde
+
+ETAPA DE OPTIMIZARE #3 _grupe masterat 
+costul total initial(grupe master) este 109
+costul total optim(grupe master) este 69
+timp de lucru cu a 3-a etapa 6.234000 secunde
+
+deschid CSV_out/Orar1CA.csv 
+deschid CSV_out/Orar1CB.csv 
+deschid CSV_out/Orar1CC.csv 
+deschid CSV_out/Orar2CA.csv 
+deschid CSV_out/Orar2CB.csv 
+deschid CSV_out/Orar2CC.csv 
+deschid CSV_out/Orar3CA.csv 
+deschid CSV_out/Orar3CB.csv 
+deschid CSV_out/Orar3CC.csv 
+deschid CSV_out/Orar4C1.csv 
+deschid CSV_out/Orar4C2.csv 
+deschid CSV_out/Orar4C3.csv 
+deschid CSV_out/Orar4C4.csv 
+deschid CSV_out/Orar4C5.csv 
+deschid CSV_out/Orar5CM-AAC.csv 
+deschid CSV_out/Orar5CM-ABD.csv 
+deschid CSV_out/Orar5CM-e-GOV.csv 
+deschid CSV_out/Orar5CM-G1.csv 
+deschid CSV_out/Orar5CM-GMRV.csv 
+deschid CSV_out/Orar5CM-IA-en.csv 
+deschid CSV_out/Orar5CM-ISI.csv 
+deschid CSV_out/Orar5CM-MTI.csv 
+deschid CSV_out/Orar5CM-SCPD-en.csv 
+deschid CSV_out/Orar5CM-SRIC.csv 
+deschid CSV_out/Orar5CM-SSA.csv 
+deschid CSV_out/Orar6CM-AAC.csv 
+deschid CSV_out/Orar6CM-ABD.csv 
+deschid CSV_out/Orar6CM-E-GOV.csv 
+deschid CSV_out/Orar6CM-GMRV.csv 
+deschid CSV_out/Orar6CM-IA-en.csv 
+deschid CSV_out/Orar6CM-ISI.csv 
+deschid CSV_out/Orar6CM-MTI.csv 
+deschid CSV_out/Orar6CM-SCPD-en.csv 
+deschid CSV_out/Orar6CM-SRIC.csv 
+deschid CSV_out/Orar6CM-SSA.csv 
+timp total de lucru 6.359000 secunde
